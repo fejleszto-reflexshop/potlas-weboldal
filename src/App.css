@@ -24,11 +24,11 @@ h4 {
     margin: 0;
 }
 
-button {
+button:not(#btn-option) {
     background-color: #E44F0A;
 }
 
-button:hover {
+button:hover:not(#btn-option) {
     cursor: pointer;
     background-color: #ed8026;
     transition: ease-in-out 0.2s;

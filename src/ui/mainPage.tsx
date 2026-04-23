@@ -169,6 +169,8 @@ export function MainPage({ onSuccess, onError }: MainPageProps) {
                             required
                         >
                             <SearchableDropdown
+                                id="gameName"
+                                name="gameName"
                                 options={dropdownOptions}
                                 value={formData.gameName}
                                 onChange={(value) =>
@@ -178,6 +180,7 @@ export function MainPage({ onSuccess, onError }: MainPageProps) {
                                     }))
                                 }
                                 placeholder="Kezdd el beírni a játék nevét..."
+                                required
                             />
                         </FormField>
 

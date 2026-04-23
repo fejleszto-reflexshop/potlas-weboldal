@@ -5,6 +5,9 @@ type SearchableDropdownProps = {
     value: string;
     onChange: (value: string) => void;
     placeholder?: string;
+    required?: boolean;
+    name?: string;
+    id?: string;
 };
 
 export function SearchableDropdown({
@@ -12,6 +15,9 @@ export function SearchableDropdown({
                                        value,
                                        onChange,
                                        placeholder = "Kezdj el gépelni...",
+                                       required = false,
+                                       name,
+                                       id,
                                    }: SearchableDropdownProps) {
     const [isOpen, setIsOpen] = useState(false);
     const wrapperRef = useRef<HTMLDivElement | null>(null);
@@ -52,8 +58,11 @@ export function SearchableDropdown({
     return (
         <div className="relative" ref={wrapperRef}>
             <input
+                id={id}
+                name={name}
                 type="text"
                 value={value}
+                required={required}
                 placeholder={placeholder}
                 onChange={(e) => {
                     onChange(e.target.value);
@@ -67,6 +76,7 @@ export function SearchableDropdown({
                 <div className="absolute z-20 mt-1 max-h-60 w-full overflow-auto rounded-md border border-[#d7dbe2] bg-white shadow-lg">
                     {filteredOptions.map((option) => (
                         <button
+                            id={"btn-option"}
                             key={option}
                             type="button"
                             onClick={() => handleSelect(option)}
