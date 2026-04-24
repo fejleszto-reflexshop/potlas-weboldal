@@ -4,6 +4,8 @@ import { MainPage } from "./ui/mainPage";
 import { DonePage } from "./ui/donePage";
 import { ErrorPage } from "./ui/errorPage";
 
+import { Analytics } from "@vercel/analytics/next"
+
 type Page = "form" | "done" | "error";
 
 function App() {
@@ -18,10 +20,14 @@ function App() {
     }
 
     return (
-        <MainPage
-            onSuccess={() => setPage("done")}
-            onError={() => setPage("error")}
-        />
+        <>
+            <MainPage
+                onSuccess={() => setPage("done")}
+                onError={() => setPage("error")}
+            />
+            <Analytics />
+        </>
+
     );
 }
 
