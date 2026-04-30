@@ -2101,6 +2101,7 @@ export const dropdownOptions: string[] = [`Age of Sigmar festékek és festőesz
 ,`Körvonal 2 - beszélgetést kezdeményező kártyajáték`
 ,`Körvonal Kids - beszélgetést kezdeményező kártyajáték`
 ,`Köszöntünk a Holdon társasjáték`
+,`Kozmosz Konzorcium társasjáték`
 ,`Kozmosz művek társasjáték`
 ,`Kragmortha társasjáték`
 ,`Kroko Loko társasjáték`
@@ -2724,7 +2725,6 @@ export const dropdownOptions: string[] = [`Age of Sigmar festékek és festőesz
 ,`Sola Fide: Reformation angol nyelvű társasjáték`
 ,`Solitaire Chess logikai játék`
 ,`Space Alert: The New Frontier társasjáték kiegészítő, angol nyelvű`
-,`Space Lab társasjáték`
 ,`Space Marine Heroes 2022 - Blood Angels Collection One minifigura`
 ,`Space Taxi társasjáték`
 ,`Sparkling Llama - sötétkék és rózsaszín dobókocka készlet`
@@ -7706,7 +7706,7 @@ export const dropdownOptions: string[] = [`Age of Sigmar festékek és festőesz
 ,`Mr Lister's Quiz Shootout társasjáték, angol nyelvű`
 ,`Muffin Time társasjáték`
 ,`Muffin Time társasjáték, angol nyelvű`
-,`Munchkin - Chtulhu társasjáték (2019)`
+,`Munchkin - Cthulhu társasjáték (2019)`
 ,`Munchkin - Super Munchkin 2020 társasjáték`
 ,`Munchkin Cthulhu 3 A borzadalmas kripta társasjáték`
 ,`Munchkin Deluxe társasjáték, angol nyelvű`
