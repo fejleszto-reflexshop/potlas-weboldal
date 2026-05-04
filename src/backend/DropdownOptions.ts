@@ -1669,9 +1669,9 @@ export const dropdownOptions: string[] = [`Age of Sigmar festékek és festőesz
 ,`Eclipse társasjáték`
 ,`Edo (magyar szabállyal)`
 ,`Eduludo Tocto Loto (társasjáték, Djeco)`
-,`Egy királyság krónikája: A lovagkor öröksége Big Box`
-,`Egy királyság krónikája: A lovagkor öröksége Legendák és szörnyek Kiegészítő`
-,`Egy királyság krónikája: Kalmárok Kiegészítő`
+,`Egy királyság krónikája: A lovagkor öröksége – 2. kiadás – Big Box`
+,`Egy királyság krónikája: A lovagkor öröksége – Legendák és szörnyek kiegészítő`
+,`Egy királyság krónikája: Kalmárok kiegészítő`
 ,`Egy királyság krónikája: Távoli partok kiegészítő`
 ,`Egy ropi naplója - 10 másodperces kihívás`
 ,`Egy ropi naplója - Flúgos Forgatás kártyajáték`
