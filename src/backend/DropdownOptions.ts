@@ -2446,7 +2446,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Egri csillagok`
 ,`Egy imposztor New Yorkban`
 ,`Egy királyság krónikája társasjáték`
-,`Egy királyság krónikája: A lovagkor öröksége – 2. kiadás – Big Box`
+,`Egy királyság krónikája: A lovagkor öröksége – 2. kiadás`
 ,`Egy királyság krónikája: A lovagkor öröksége – Legendák és szörnyek kiegészítő`
 ,`Egy királyság krónikája: Kalmárok kiegészítő`
 ,`Egy királyság krónikája: Távoli partok kiegészítő`
