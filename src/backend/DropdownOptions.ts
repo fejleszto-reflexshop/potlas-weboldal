@@ -51,7 +51,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`50 Clues Sunshine Island 1 No Sign of Life társasjáték, angol nyelvű`
 ,`50 Clues Sunshine Island 2 Down in the Depths társasjáték, angol nyelvű`
 ,`50 Clues Sunshine Island 3 The Last Journey társasjáték, angol nyelvű`
-,`50 dinoszaurusz kártyajáték`
 ,`50 képregény - foglalkoztató kártyák`
 ,`50 különbségkereső - foglalkoztató kártyák`
 ,`50 Labirintusok - foglalkoztató kártyák`
@@ -872,7 +871,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Blindes Huhn Extreme társasjáték`
 ,`Block & Block - fémdobozos`
 ,`Block & Block Colors társasjáték`
-,`Block & Block Colors építőjáték`
 ,`Block Out fa ügyességi játék`
 ,`Block Party társasjáték, angol nyelvű`
 ,`Blockers: The Card Game német nyelvű társasjáték`
@@ -1713,11 +1711,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Color Carpet társasjáték, angol nyelvű`
 ,`Color Code társasjáték`
 ,`Color Fold logikai játék`
-,`Color Line társasjáték`
 ,`Colorado társasjáték`
 ,`Colorado társasjáték`
 ,`Coloretto jubileum társasjáték`
-,`Colorfind társasjáték`
 ,`ColorFox társasjáték, angol nyelvű`
 ,`Colorfox – new form társasjáték, angol nyelvű`
 ,`Colori Duo társasjáték`
@@ -2541,7 +2537,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre társasjáték, angol nyelvű`
 ,`Epic Spell Wars of the Battle Wizards: Hijinx- Hell High társasjáték`
 ,`Epic Spell Wars of the Battle Wizards: Rumble at Castle Tentakill társasjáték, angol nyelvű`
-,`Equilibry ügyességi játék`
 ,`Equinox társasjáték`
 ,`Erdők játéka társasjáték`
 ,`Eredeti WPT póker kártya BEE`
@@ -2728,7 +2723,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Feelinks angol nyelvű társasjáték`
 ,`Feelinks társasjáték`
 ,`Fekete Puli - Fekete Péter kártya`
-,`Fekete történetek 13. logisztori rejtvények`
 ,`Fekete történetek 2. logisztori rejtvények`
 ,`Fekete történetek 3. logisztori rejtvények`
 ,`Fekete történetek 4. logisztori rejtvények`
@@ -3852,7 +3846,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Jungo társasjáték`
 ,`Junior Alias társasjáték`
 ,`Junior Colourbrain mini  társasjáték, angol`
-,`Junior Scrabble társasjáték`
 ,`Junta társasjáték, angol nyelvű`
 ,`Junta: Las Cartas kártyajáték, angol nyelvű`
 ,`JURASSIC BRUNCH társasjáték, angol`
@@ -4034,7 +4027,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kick-Ass társasjáték, angol nyelvű`
 ,`Kiegészítő szerencsekártya csomag Az Ezüst - tó kincse társasjátékhoz`
 ,`Kifürkészhetetlen társasjáték`
-,`Kikiri Balance egyensúlyozó játék`
 ,`Kill Kim - A rezsimcsökkentés társasjáték`
 ,`Kill Shakespeare társasjáték, angol nyelvű`
 ,`Kill the Overlord! angol nyelvű társasjáték`
@@ -4619,7 +4611,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Marbushka: Grand Prix társasjáték (magyar szabállyal)`
 ,`Marbushka: Gü társasjáték (magyar szabállyal)`
 ,`Marbushka: Hajók és kapitányok társasjáték (magyar szabállyal)`
-,`Marbushka: Hív a tenger kirakó`
 ,`Marbushka: Karácsonyi mese társasjáték (magyar szabállyal)`
 ,`Marbushka: Kutyák és Otthonok társasjáték (magyar szabállyal)`
 ,`Marbushka: Piggily társasjáték (magyar szabállyal)`
@@ -4809,17 +4800,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Memoir '44 társasjáték, angol nyelvű`
 ,`MEMOMIAK fejlesztő kártyajáték`
 ,`Memorace - A káprázatos természet`
-,`Memorace - A lenyűgöző emberi test`
-,`Memorace - Csodálatos Magyarország`
 ,`Memorace - Elképesztő találmányok`
 ,`Memorace - Fedezzük fel Európát!`
-,`Memorace - Gyerekjáték a matematika`
-,`Memorace - Ismerkedjünk a betűkkel!`
-,`Memorace - Ismerkedjünk a matekkal!`
-,`Memorace - Meghökkentő rekordok`
 ,`Memorace - Pénzügyi tudatosság`
-,`Memorace - Tanuljunk angolul`
-,`Memorace - Varázslatos mesék`
 ,`Memorinth memóriafejlesztő társasjáték`
 ,`Memorize Animal Babies társasjáték`
 ,`Memorize Dino társasjáték`
@@ -4858,7 +4841,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mexican Train társasjáték, angol`
 ,`Mexikói párbaj kártyajáték`
 ,`Mi Mennyi? társasjáték`
-,`Mi Mic társasjáték`
 ,`Mi Micsoda Nagy kvíz`
 ,`Miaubirintus társasjáték`
 ,`Miaui társasjáték`
@@ -6741,7 +6723,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Specific társasjáték`
 ,`Specter Ops társasjáték, angol nyelvű`
 ,`Speed Colors: Bogyó és Babóca társasjáték`
-,`Speed Monster társasjáték`
 ,`Speedy Ants multinyelvű társasjáték`
 ,`Speedy Beedy társasjáték, angol`
 ,`Speedy Roll társasjáték`
@@ -6967,7 +6948,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Szilaj - Kalandok Miraderoban társasjáték`
 ,`Szimat Nyomozó társasjáték`
 ,`Szivárvány társasjáték`
-,`Szivárvány történetek logisztori rejtvények`
 ,`Szkarabeuszurak kártyajáték`
 ,`Szkítia fosztogatói társasjáték`
 ,`Szorgos hangyák társasjáték`
@@ -7988,7 +7968,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`What Do You Meme? New Phone, Who Dis? társasjáték, angol nyelvű`
 ,`What Do You Meme? Travel kiadás társasjáték, angol nyelvű`
 ,`What the Cluck társasjáték, angol`
-,`What's Up? Junior társasjáték`
 ,`Whirling Witchcraft társasjáték, angol nyelvű`
 ,`Whistle Stop, társasjáték, angol nyelvű`
 ,`White Kittens 500 pcs puzzle`
