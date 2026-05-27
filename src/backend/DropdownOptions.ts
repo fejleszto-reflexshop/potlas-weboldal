@@ -6258,6 +6258,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Regatta Logikai társasjáték`
 ,`Regine társasjáték, angol nyelvű`
 ,`Rejtély a babaházban társasjáték`
+,`Removal társasjáték, angol nyelvű`
 ,`Remény hadművelet társasjáték`
 ,`Renature - Újjáéledő természet társasjáték`
 ,`Reptile Tank idegen nyelvű társasjáték`
@@ -7126,6 +7127,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`TCG Pokémon ME01 - Elite Trainer`
 ,`Tea 2 főre társasjáték`
 ,`Tea Dragon Society társasjáték, angol nyelvű`
+,`Tea Garden Puerh társasjáték, angol nyelvu`
 ,`Tea Time Crime társasjáték`
 ,`Tea Time logikai társasjáték`
 ,`Team Story társasjáték, angol nyelvű`
