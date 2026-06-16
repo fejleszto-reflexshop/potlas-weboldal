@@ -505,7 +505,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Asmodee Crazy Circus társasjáték`
 ,`Asmodee Eclipse`
 ,`Asmodee Jungle Speed, Dzsungelláz társasjáték`
-,`Asmodee Mysterium társasjáték`
+,`Asmodee Mysterium 2. kiadás társasjáték`
 ,`Asmodee Origin társasjáték`
 ,`Asmodee Prosperity társasjáték`
 ,`Asmodee Romans go home! társasjáték`
@@ -925,6 +925,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Boldog Lazac társasjáték`
 ,`Boldog mocsik`
 ,`Bomb Squad társasjáték, angol nyelvű`
+,`Bombagól | Mini Foci VB Társasjáték`
 ,`Bombairtók társasjáték (Az év játéka 2025 | Spiel des Jahres)`
 ,`Bonszai társasjáték`
 ,`Boo buli társasjáték`
@@ -3415,7 +3416,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Haru Ichiban társasjáték`
 ,`Hasbro - Cluedo Junior társasjáték`
 ,`Hasbro - Monopoly Classic új változat társasjáték`
-,`Hasbro - Monopoly Pokemon angol nyelvű társasjáték`
+,`Hasbro - Monopoly Pokemon társasjáték`
 ,`Hasbro - Operáció Classic új változat`
 ,`Hasbro Elefun és barátai - Egércsapda játék`
 ,`Hasbro Elefun és barátai - Éhes vizilovak ügyességi társasjáték`
@@ -3620,7 +3621,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Huch&Friends Tricky Tower`
 ,`Huch&Friends Unikato`
 ,`Huch&Friends Xalapa társasjáték`
-,`Hues and Cues társasjáték`
 ,`Hues and Cues társasjáték, angol nyelvű`
 ,`HULA HOO - társasjáték, angol nyelvű`
 ,`Hula-hoppá! társasjáték`
@@ -4853,6 +4853,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`MicroMacro Crime City társasjáték`
 ,`MicroMacro Crime City: All in társasjáték`
 ,`MicroMacro Crime City: Full House társasjáték`
+,`MicroMacro Junior: Bajkeverők kíméljenek! | Kooperatív Családi Nyomozós Társasjáték`
 ,`MicroMacro: Crime City - A végső rejtély társasjáték`
 ,`MicroMacro: Crime City - Showdown társasjáték`
 ,`Micsoda előadás!`
@@ -5200,7 +5201,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Neuroshima HEX 3.0: Uranopolis kiegészítő, angol nyelvű`
 ,`Neuroshima Hex 3.0: Year of Moloch edition angol nyelvű társasjáték`
 ,`Neuroshima Hex! 3.0 - Troglodytes kiegészítő, angol`
-,`Never Have I Ever partijáték`
 ,`NEW PHONE, WHO DIS? Társasjáték (Felnőtt Kiadás 18+)`
 ,`New York 1901 társasjáték`
 ,`New York City társasjáték`
@@ -5798,7 +5798,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piratoons társasjáték`
 ,`Piros történetek logisztori rejtvények`
 ,`Piszkos Fred 2. magyar kiadás`
-,`Pitch&Plakks társasjáték`
+,`Pitch & Plakks társasjáték`
 ,`Pitchstorm társasjáték, angol nyelvű`
 ,`Pitypang és Lili - Segíts a kutyusoknak társasjáték`
 ,`Pitypang és Lili memóriajáték`
@@ -5935,9 +5935,13 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG: Cynthia's Garchomp ex Premium Collection`
 ,`Pokémon TCG: Enhanced 2-Pack Bliszter Gyűjtői kártya`
 ,`Pokémon TCG: First Partner Illustration Collection - Series 1 Gyűjtői kártya csomag`
+,`Pokémon TCG: Lumiose City Mini Tin Gyűjtői kártyacsomag`
 ,`Pokémon TCG: ME02 Phantasmal Flames - Booster`
 ,`Pokémon TCG: ME02 Phantasmal Flames - Booster csomag`
 ,`Pokémon TCG: ME02 Phantasmal Flames - Elite Trainer Box`
+,`Pokémon TCG: ME02.5 Ascended Heroes - Booster Bundle`
+,`Pokémon TCG: ME02.5 Ascended Heroes - Elite Trainer Box`
+,`Pokémon TCG: ME02.5 Ascended Heroes - ex Box`
 ,`Pokémon TCG: ME02.5 Ascended Heroes - First Partner Deluxe Pin Collection Gyűjtői kártya csomag`
 ,`Pokémon TCG: ME02.5 Ascended Heroes - Mini Tin`
 ,`Pokémon TCG: ME02.5 Ascended Heroes - Premium Poster Collection Gyűjtői kártya csomag`
@@ -5946,13 +5950,18 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG: ME03 Perfect Order - Booster Bundle`
 ,`Pokémon TCG: ME03 Perfect Order - Booster gyűjtőikártya csomag`
 ,`Pokémon TCG: ME03 Perfect Order - Elite Trainer Box`
+,`Pokémon TCG: ME04 Chaos Rising - Booster`
+,`Pokémon TCG: ME04 Chaos Rising - Booster Bundle`
+,`Pokémon TCG: ME04 Chaos Rising - Elite Trainer Box`
 ,`Pokémon TCG: Mega Battle Deck - Gengar ex & Diancie ex`
 ,`Pokémon TCG: Mega Charizard Tin`
 ,`Pokémon TCG: Mega Charizard X ex Ultra Premium Collection`
 ,`Pokémon TCG: Mega Evolution 01 - 3 Blister Gyűjtői kártya`
 ,`Pokémon TCG: Mega Kangaskhan ex Box`
 ,`Pokémon TCG: Mega Lucario ex Figure Collection`
+,`Pokémon TCG: Mega Moonlit Tin gyűjtői kártyacsomag`
 ,`Pokémon TCG: Mega Venusaur ex Premium Collection`
+,`Pokémon TCG: Mega Zygarde ex Premium Collection`
 ,`Pokémon TCG: Poké Ball Tin 2025`
 ,`Pokémon TCG: Pokémon Day 2026 Collection`
 ,`Pokémon TCG: Slashing Legends Tin`
@@ -6849,7 +6858,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Stoner Loonacy társasjáték, angol nyelvű`
 ,`Stop! Társasjáték`
 ,`Storigolo társasjáték`
-,`Storyfold: Árnyrengeteg társasjáték`
+,`Storyfold: Árnyrengeteg | történetvezérelt kaland társasjáték`
 ,`Stragoo Figolo kártyajáték`
 ,`Stragoo Fipolino társasjáték`
 ,`Stragoo Grabolo 3D társasjáték`
@@ -7018,6 +7027,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Színpadra fel! társasjáték`
 ,`Színtahal társasjáték`
 ,`Színvilág társasjáték`
+,`Színérzék társasjáték`
 ,`Szó Csata társasjáték`
 ,`Szócsapdák társasjáték`
 ,`Szófia hercegnő MINI Fekete Péter és memória játék`
@@ -8159,6 +8169,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Élem & Élvezem a jelen pillanatot (2025) HUN`
 ,`Életképek társasjáték`
 ,`Én elmentem a vásárba... - kártyajáték gyüjtemény óvodásoknak és kisiskolásoknak`
+,`Én még sohasem partijáték`
 ,`Építs velem, Boribon! társasjáték`
 ,`Építőmesterek társasjáték, Középkor`
 ,`Érzékek Birodalma társasjáték`
