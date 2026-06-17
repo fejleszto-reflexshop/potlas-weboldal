@@ -1702,6 +1702,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Coffee Roaster társasjáték, angol nyelvű`
 ,`Coffee Rush társasjáték`
 ,`Coffee Rush: Hab a tortán kiegészítő`
+,`Cogno Cards™ Alto | modern kártyajáték`
+,`Cogno Cards™ Coloro | horizontal kártyajáték`
+,`Cogno Cards™ Hi-Lo | Guesso | OUT!  | 3 az 1-ben kártyajátékok`
 ,`Coimbra társasjáték, angol nyelvű`
 ,`Collection Classique Bingo társasjáték, angol`
 ,`Colonists társasjáték, angol nyelvű`
