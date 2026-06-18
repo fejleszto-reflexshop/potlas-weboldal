@@ -4613,7 +4613,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Marbushka: Ed és Wolf társasjáték (magyar szabállyal)`
 ,`Marbushka: Egy esős napon társasjáték (magyar szabállyal)`
 ,`Marbushka: Grand Prix társasjáték (magyar szabállyal)`
-,`Marbushka: Gü társasjáték (magyar szabállyal)`
+,`Marbushka: Gük társasjáték (magyar szabállyal)`
 ,`Marbushka: Hajók és kapitányok társasjáték (magyar szabállyal)`
 ,`Marbushka: Karácsonyi mese társasjáték (magyar szabállyal)`
 ,`Marbushka: Kutyák és Otthonok társasjáték (magyar szabállyal)`
@@ -6045,7 +6045,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`PP Matchbox kártyajáték - Fact or fiction?`
 ,`PP Matchbox kártyajáték - Impossible decisions, angol`
 ,`PP Matchbox kártyajáték - Off limits, angol`
-,`PP Matchbox kártyajáték- Did it really happen ?, angol`
+,`PP Matchbox kártyajáték- Did it really happen?, angol`
 ,`PP Matchbox kártyajáték- Raise the stakes`
 ,`PP Matchbox kártyajáték- What's the next line`
 ,`PP Matchbox kártyajáték- Who am i ?, angol`
