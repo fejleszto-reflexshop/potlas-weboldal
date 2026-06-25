@@ -7471,6 +7471,10 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tortuga 1667 társasjáték, angol nyelvű`
 ,`Tortuga 2199: Hazárdbolygó kalózai társasjáték`
 ,`Tortuga társasjáték`
+,`Tossit Starter Pack – Kék, Sárga | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Lila, Zöld | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Pink, Kék | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Piros, Türkiz | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
 ,`Total Domination társasjáték, angol nyelvű`
 ,`Totem társasjáték`
 ,`Totemix`
