@@ -1,4 +1,5 @@
 import subprocess
+from datetime import datetime
 
 PROJECT_DIR = "C:\\Projekt\\potlas-weboldal"
 GIT = "C:\\Users\\marton.aron\\AppData\\Local\\Programs\\Git\\cmd\\git.exe"
@@ -15,7 +16,7 @@ def run_git(args):
 
 def main():
     p_add = run_git(["add", "."])
-    p_commit = run_git(["commit", "-m", "deploy: new games added"])
+    p_commit = run_git(["commit", "-m", f"deploy: new games added at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"])
     p_push = run_git(["push"])
 
     with open(f"{PROJECT_DIR}\\log_upload.log", "a", encoding="utf-8") as file:

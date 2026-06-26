@@ -1702,6 +1702,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Coffee Roaster társasjáték, angol nyelvű`
 ,`Coffee Rush társasjáték`
 ,`Coffee Rush: Hab a tortán kiegészítő`
+,`Cogno Cards™ Alto | modern kártyajáték`
+,`Cogno Cards™ Coloro | horizontal kártyajáték`
+,`Cogno Cards™ Hi-Lo | Guesso | OUT!  | 3 az 1-ben kártyajátékok`
 ,`Coimbra társasjáték, angol nyelvű`
 ,`Collection Classique Bingo társasjáték, angol`
 ,`Colonists társasjáték, angol nyelvű`
@@ -4610,7 +4613,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Marbushka: Ed és Wolf társasjáték (magyar szabállyal)`
 ,`Marbushka: Egy esős napon társasjáték (magyar szabállyal)`
 ,`Marbushka: Grand Prix társasjáték (magyar szabállyal)`
-,`Marbushka: Gü társasjáték (magyar szabállyal)`
+,`Marbushka: Gük társasjáték (magyar szabállyal)`
 ,`Marbushka: Hajók és kapitányok társasjáték (magyar szabállyal)`
 ,`Marbushka: Karácsonyi mese társasjáték (magyar szabállyal)`
 ,`Marbushka: Kutyák és Otthonok társasjáték (magyar szabállyal)`
@@ -6042,7 +6045,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`PP Matchbox kártyajáték - Fact or fiction?`
 ,`PP Matchbox kártyajáték - Impossible decisions, angol`
 ,`PP Matchbox kártyajáték - Off limits, angol`
-,`PP Matchbox kártyajáték- Did it really happen ?, angol`
+,`PP Matchbox kártyajáték- Did it really happen?, angol`
 ,`PP Matchbox kártyajáték- Raise the stakes`
 ,`PP Matchbox kártyajáték- What's the next line`
 ,`PP Matchbox kártyajáték- Who am i ?, angol`
@@ -7468,6 +7471,10 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tortuga 1667 társasjáték, angol nyelvű`
 ,`Tortuga 2199: Hazárdbolygó kalózai társasjáték`
 ,`Tortuga társasjáték`
+,`Tossit Starter Pack – Kék, Sárga | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Lila, Zöld | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Pink, Kék | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
+,`Tossit Starter Pack – Piros, Türkiz | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
 ,`Total Domination társasjáték, angol nyelvű`
 ,`Totem társasjáték`
 ,`Totemix`
