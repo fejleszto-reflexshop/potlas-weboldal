@@ -4803,10 +4803,18 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Memofant társasjáték`
 ,`Memoir '44 társasjáték, angol nyelvű`
 ,`MEMOMIAK fejlesztő kártyajáték`
-,`Memorace - A káprázatos természet`
-,`Memorace - Elképesztő találmányok`
-,`Memorace - Fedezzük fel Európát!`
-,`Memorace - Pénzügyi tudatosság`
+,`Memorace – A káprázatos természet | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
+,`Memorace – A lenyűgöző emberi test | Ismeretterjesztő fejlesztő társasjáték (8+)`
+,`Memorace – Csodálatos Magyarország | Hazai ismeretterjesztő fejlesztő társasjáték (8+)`
+,`Memorace – Elképesztő találmányok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
+,`Memorace – Fedezzük fel Európát! | Földrajzi ismeretterjesztő fejlesztő társasjáték (8+)`
+,`Memorace – Gyerekjáték a matematika | Matek fejlesztő társasjáték iskolásoknak (8+)`
+,`Memorace – Ismerkedjünk a betűkkel! | Betűtanuló iskola-előkészítő fejlesztő társasjáték (5+)`
+,`Memorace – Ismerkedjünk a matekkal! | Számoló iskola-előkészítő fejlesztő társasjáték (5+)`
+,`Memorace – Meghökkentő rekordok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
+,`Memorace – Pénzügyi tudatosság | Pénzügyi okosító fejlesztő társasjáték gyerekeknek (8+)`
+,`Memorace – Tanuljunk angolul | Angol szókincsfejlesztő fejlesztő társasjáték (7+)`
+,`Memorace – Varázslatos mesék | Mesés memóriafejlesztő fejlesztő társasjáték (5+)`
 ,`Memorinth memóriafejlesztő társasjáték`
 ,`Memorize Animal Babies társasjáték`
 ,`Memorize Dino társasjáték`
