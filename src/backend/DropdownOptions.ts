@@ -4940,7 +4940,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Monkey Palace társasjáték`
 ,`MONO parti kártyajáték`
 ,`Monogamy felnőtt társasjáték`
-,`Monogamy felnőtt társasjáték`
 ,`Monolith Arena társasjáték, angol nyelvű`
 ,`Monolith Arena: Academics kiegészítő, angol`
 ,`Monolith Arena: Golems kiegészítő, angol`
