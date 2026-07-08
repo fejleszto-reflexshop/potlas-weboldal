@@ -5,6 +5,7 @@ import { DonePage } from "./ui/donePage";
 import { ErrorPage } from "./ui/errorPage";
 
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 type Page = "form" | "done" | "error";
 
@@ -26,6 +27,7 @@ function App() {
                 onError={() => setPage("error")}
             />
             <Analytics />
+            <SpeedInsights />
         </>
 
     );
