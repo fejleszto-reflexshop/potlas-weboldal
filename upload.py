@@ -15,12 +15,14 @@ def run_git(args):
     )
 
 def main():
+    CURRENT_DATE = datetime.now().strftime('%Y-%m-%d')
+    
     p_add = run_git(["add", "."])
-    p_commit = run_git(["commit", "-m", f"deploy: new games added at {datetime.now().strftime('%Y-%m-%d')}"])
+    p_commit = run_git(["commit", "-m", f"deploy: new games added at {CURRENT_DATE}"])
     p_push = run_git(["push"])
 
     with open(f"{PROJECT_DIR}\\log_upload.log", "a", encoding="utf-8") as file:
-        file.write("\n--- git add ---\n")
+        file.write(f"\n--- git add --- {CURRENT_DATE}\n")
         file.write(p_add.stdout + p_add.stderr)
 
         file.write("\n--- git commit ---\n")
