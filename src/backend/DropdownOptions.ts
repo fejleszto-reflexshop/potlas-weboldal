@@ -3761,6 +3761,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Iparkodó iparosok társasjáték`
 ,`IQ Pyramide Xl multinyelvű társasjáték`
 ,`Irány a dicsőség! társasjáték`
+,`Irány a Mooki sziget! társasjáték`
 ,`Irány a vadon! - Észak-Amerika társasjáték`
 ,`Ishtar: Gardens of Babylon társasjáték, angol nyelvű`
 ,`Iskolai sakk társasjáték`
