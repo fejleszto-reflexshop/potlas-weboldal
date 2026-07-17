@@ -5964,6 +5964,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG: ME04 Chaos Rising - Booster`
 ,`Pokémon TCG: ME04 Chaos Rising - Booster Bundle`
 ,`Pokémon TCG: ME04 Chaos Rising - Elite Trainer Box`
+,`Pokémon TCG: ME05 Pitch Black - Booster`
+,`Pokémon TCG: ME05 Pitch Black - Booster Bundle`
+,`Pokémon TCG: ME05 Pitch Black - Elite Trainer Box`
 ,`Pokémon TCG: Mega Battle Deck - Gengar ex & Diancie ex`
 ,`Pokémon TCG: Mega Charizard Tin`
 ,`Pokémon TCG: Mega Charizard X ex Ultra Premium Collection`
