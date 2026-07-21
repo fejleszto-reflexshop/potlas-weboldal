@@ -927,6 +927,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Bomb Squad társasjáték, angol nyelvű`
 ,`Bombagól | Mini Foci VB Társasjáték`
 ,`Bombairtók társasjáték (Az év játéka 2025 | Spiel des Jahres)`
+,`Bombaírtók: Elit alakulat | társasjáték kiegészítő`
 ,`Bonszai társasjáték`
 ,`Boo buli társasjáték`
 ,`Boogie dice robotizált kocka`
