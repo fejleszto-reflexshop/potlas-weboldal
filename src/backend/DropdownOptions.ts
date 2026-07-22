@@ -927,7 +927,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Bomb Squad társasjáték, angol nyelvű`
 ,`Bombagól | Mini Foci VB Társasjáték`
 ,`Bombairtók társasjáték (Az év játéka 2025 | Spiel des Jahres)`
-,`Bombaírtók: Elit alakulat | társasjáték kiegészítő`
+,`Bombairtók: Elit alakulat | társasjáték kiegészítő`
 ,`Bonszai társasjáték`
 ,`Boo buli társasjáték`
 ,`Boogie dice robotizált kocka`
@@ -7152,6 +7152,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`TCG MTG - Edge of Eternities Bundle`
 ,`TCG MTG - Edge of Eternities Play Booster`
 ,`TCG MTG - Final Fantasy Play Booster`
+,`TCG MTG - Play Booster - Marvel Super Heroes`
 ,`TCG MTG - Wilds of Eldraine Draft Booster`
 ,`TCG Pokémon ME01 - Elite Trainer`
 ,`Tea 2 főre társasjáték`
