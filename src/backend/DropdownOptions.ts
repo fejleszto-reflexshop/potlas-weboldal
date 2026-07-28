@@ -2412,6 +2412,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dámajáték`
 ,`Dínó futam társasjáték`
 ,`Dűlőre jutunk társasjáték`
+,`Dűne Impérium: Összeesküvés kiegészítő`
 ,`Dűne – A hódítás és diplomácia játéka társasjáték`
 ,`Dűne – Árulás társasjáték`
 ,`Dűne: Homokba temetett titkok társasjáték`
