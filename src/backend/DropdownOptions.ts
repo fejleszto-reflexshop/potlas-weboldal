@@ -2824,6 +2824,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Flex Puzzler XL társasjáték`
 ,`Flexi Cube`
 ,`Flip 7 kártyajáték`
+,`Flip 7 Édes a bosszú kártyajáték`
 ,`Flip Circus társasjáték, angol nyelvű`
 ,`Flip Over kártyajáték`
 ,`Flooping társasjáték`
@@ -3128,6 +3129,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Ganz schön clever KIDS (Egy okos húzás!)`
 ,`Ganz Schön Clever társasjáték`
 ,`Garden Rush társasjáték`
+,`Gaudi társasjáték`
 ,`Gauner raus! kártyajáték`
 ,`Gazdálkodj okosan társasjáték - Régi játék új pénzekkel`
 ,`Gazdálkodj okosan! (eurós változat) társasjáték`
@@ -7695,6 +7697,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Unmatched Kalandok: Titokzatos történetek tokenek`
 ,`Unmatched Kalandok: Titokzatos történetek társasjáték`
 ,`Unmatched: A felkelő nap társasjáték`
+,`Unmatched: A szabadság földje társasjáték`
 ,`Unmatched: Brains and Brawn társasjáték, angol nyelvű`
 ,`Unmatched: For King and Country társasjáték, angol nyelvű`
 ,`Unmatched: Houdini vs. a dzsinn társasjáték`
