@@ -5813,7 +5813,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piratoons társasjáték`
 ,`Piros történetek logisztori rejtvények`
 ,`Piszkos Fred 2. magyar kiadás`
-,`Pitch & Plakks társasjáték`
 ,`Pitchstorm társasjáték, angol nyelvű`
 ,`Pitypang és Lili - Segíts a kutyusoknak társasjáték`
 ,`Pitypang és Lili memóriajáték`
@@ -5827,7 +5826,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piña Coladice társasjáték, angol nyelvű`
 ,`Piña Pirata társasjáték, angol nyelvű`
 ,`Plague Inc társasjáték, angol nyelvű`
-,`Plakks Basketball társasjáték`
 ,`Plakks Football társasjáték`
 ,`Planes társasjáték, angol nyelvű`
 ,`Planet társasjáték - Egy éledő világ a tenyeredben`
