@@ -6298,9 +6298,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Resistance Avalon Big Box társasjáték, angol nyelvű`
 ,`Retributor armour spray 400 ml`
 ,`Rettegés arkhamban 3. kiadás - A rend titkai társasjáték kiegészítő`
-,`Rettegés arkhamban 3. kiadás - A rend titkai társasjáték kiegészítő`
 ,`Rettegés arkhamban 3. kiadás - Sötét hullámok alatt kiegészítő`
 ,`Rettegés Arkhamban 3. kiadás - Éjnek Évadján kiegészítő`
+,`Rettegés arkhamban 3. kiadás társasjáték `
 ,`Rettegés Arkhamban társasjáték`
 ,`Rettegés Arkhamban – A kártyajáték`
 ,`Rettegés Arkhamban: Lovecraft levél - Egy Szerelmes Levél játék`
