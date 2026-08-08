@@ -156,7 +156,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A légi társaság társasjáték`
 ,`A légi társaság: Turbulencia társasjáték kiegészítő`
 ,`A Mars - Idegen invázió társasjáték kiegészítő`
-,`A Mars Terraformálása promókártya szett`
 ,`A Mars Terraformálása társasjáték`
 ,`A Mars terraformálása vászontáska`
 ,`A Mars terraformálása: A kezdetek 2 promócsomag`
@@ -2303,6 +2302,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Doppelt so Clever pontozótömb (Ersatzblock)`
 ,`Dorfromantik - Párbaj társasjáték`
 ,`Dorfromantik társasjáték`
+,`Doromboló romboló | Cicás családi társasjáték 8 éves kortól`
 ,`Dosa társasjáték`
 ,`Double Ditto társasjáték`
 ,`Double Donkey kártyajáték`
@@ -2730,11 +2730,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Feelinks angol nyelvű társasjáték`
 ,`Feelinks társasjáték`
 ,`Fekete Puli - Fekete Péter kártya`
-,`Fekete történetek 2. logisztori rejtvények`
-,`Fekete történetek 3. logisztori rejtvények`
-,`Fekete történetek 4. logisztori rejtvények`
-,`Fekete történetek logisztori rejtvények`
-,`Fekete történetek: Bizarr valóság logisztori rejtvények`
 ,`Fekete történetek: Döglött akták logisztori rejtvények`
 ,`Fekete történetek: Gyilkos spinék logisztori rejtvények`
 ,`Fekete történetek: Haláli halálok logisztori rejtvények`
@@ -2743,10 +2738,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Fekete történetek: Orbitális bukták logisztori rejtvények`
 ,`Fekete történetek: Rémmesék logisztori rejtvények`
 ,`Fekete történetek: Sorozatgyilkosok logisztori rejtvények`
-,`Fekete történetek: Sz@r ügy logisztori rejtvények`
 ,`Fekete történetek: Szent sz@r! logisztori rejtvények`
 ,`Fekete történetek: Szex & vér logisztori rejtvények`
-,`Fekete történetek: És mégis lapos a Föld... logisztori rejtvények`
 ,`Felelsz vagy mersz? - Buliii! kártyajáték`
 ,`Felelsz vagy mersz? - Családi kiadás`
 ,`Felelsz vagy mersz? - Családi kártyajáték`
@@ -2823,7 +2816,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Flex Puzzler MAX társasjáték`
 ,`Flex Puzzler XL társasjáték`
 ,`Flexi Cube`
-,`Flip 7 kártyajáték`
 ,`Flip 7 Édes a bosszú kártyajáték`
 ,`Flip Circus társasjáték, angol nyelvű`
 ,`Flip Over kártyajáték`
@@ -4374,7 +4366,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Looney Tunes - Bolondos dallamok MINI Fekete Péter és memória kártya`
 ,`Looot társasjáték`
 ,`Loopin' Louie társasjáték`
-,`Loopin' Louie társasjáték`
 ,`Lord of the Rings LCG társasjáték, angol nyelvű`
 ,`Lords and Ladies angol nyelvű társasjáték`
 ,`Lords of Hellas társasjáték, magyar nyelvű változat`
@@ -4444,7 +4435,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Machi Koro társasjáték 5th anniversary edition, angol nyelvű`
 ,`Mackók és Méhek társasjáték`
 ,`Macragge blue spray 400 ml`
-,`Macska Mancs Brancs logikai játék`
 ,`Macska, 500 db-os puzzle`
 ,`Macskajáték kártyajáték`
 ,`Macskalak társasjáték`
@@ -4809,14 +4799,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Memoir '44 társasjáték, angol nyelvű`
 ,`MEMOMIAK fejlesztő kártyajáték`
 ,`Memorace – A káprázatos természet | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
-,`Memorace – A lenyűgöző emberi test | Ismeretterjesztő fejlesztő társasjáték (8+)`
-,`Memorace – Csodálatos Magyarország | Hazai ismeretterjesztő fejlesztő társasjáték (8+)`
 ,`Memorace – Elképesztő találmányok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
 ,`Memorace – Fedezzük fel Európát! | Földrajzi ismeretterjesztő fejlesztő társasjáték (8+)`
-,`Memorace – Gyerekjáték a matematika | Matek fejlesztő társasjáték iskolásoknak (8+)`
-,`Memorace – Ismerkedjünk a betűkkel! | Betűtanuló iskola-előkészítő fejlesztő társasjáték (5+)`
-,`Memorace – Ismerkedjünk a matekkal! | Számoló iskola-előkészítő fejlesztő társasjáték (5+)`
-,`Memorace – Meghökkentő rekordok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
 ,`Memorace – Pénzügyi tudatosság | Pénzügyi okosító fejlesztő társasjáték gyerekeknek (8+)`
 ,`Memorace – Tanuljunk angolul | Angol szókincsfejlesztő fejlesztő társasjáték (7+)`
 ,`Memorace – Varázslatos mesék | Mesés memóriafejlesztő fejlesztő társasjáték (5+)`
@@ -7485,12 +7469,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tortuga 1667 társasjáték, angol nyelvű`
 ,`Tortuga 2199: Hazárdbolygó kalózai társasjáték`
 ,`Tortuga társasjáték`
-,`Tossit Family Pack – Pink, Lila, Kék, Sárga | Szilikon Darts Játék 2-4 Főre | 7 Játékmód`
-,`Tossit Family Pack – Piros, Türkiz, Kék, Sárga | Szilikon Darts Játék 2-4 Főre | 7 Játékmód`
-,`Tossit Starter Pack – Kék, Sárga | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
-,`Tossit Starter Pack – Lila, Zöld | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
-,`Tossit Starter Pack – Pink, Kék | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
-,`Tossit Starter Pack – Piros, Türkiz | Szilikon Tapadókorongos Darts Játék 2 Főre | 7 Játékmód`
 ,`Total Domination társasjáték, angol nyelvű`
 ,`Totem társasjáték`
 ,`Totemix`
