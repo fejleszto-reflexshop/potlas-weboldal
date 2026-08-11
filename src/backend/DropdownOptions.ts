@@ -955,7 +955,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Brain Games Wash Dash társasjáték`
 ,`Brainbox - A világ országai társasjáték`
 ,`Brainbox - Dinoszauruszok társasjáték`
-,`Brainbox - Egyszer volt, hol nem volt társasjáték`
 ,`Brainbox - Ellentétek társasjáték`
 ,`Brainbox - Első képeim társasjáték`
 ,`Brainbox - Első állatok társasjáték`
@@ -4798,7 +4797,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Memofant társasjáték`
 ,`Memoir '44 társasjáték, angol nyelvű`
 ,`MEMOMIAK fejlesztő kártyajáték`
-,`Memorace – A káprázatos természet | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
 ,`Memorace – Elképesztő találmányok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
 ,`Memorace – Fedezzük fel Európát! | Földrajzi ismeretterjesztő fejlesztő társasjáték (8+)`
 ,`Memorace – Pénzügyi tudatosság | Pénzügyi okosító fejlesztő társasjáték gyerekeknek (8+)`
