@@ -8132,6 +8132,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zümmögő társasjáték`
 ,`Ábrándos bárányok társasjáték`
 ,`Álarcosbál társasjáték`
+,`Állami Mutyi társasjáték – szatirikus politikai partijáték`
 ,`Állat bingó mágneses társasjáték`
 ,`Állat bingó mágneses társasjáték`
 ,`Állati fogások társasjáték`
