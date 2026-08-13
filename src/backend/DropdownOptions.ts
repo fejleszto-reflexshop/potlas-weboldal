@@ -4679,7 +4679,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Matchify - Párosíts kártyajáték (utazó)`
 ,`Matchify - Párosíts kártyajáték: Foglalkozások`
 ,`Matchmaster társasjáték, angol nyelvű`
-,`Matchy Matchy társasjáték`
+,`Matchy Matchy társasjáték – páros asszociációs kártyajáték fotókkal`
 ,`Math Dice Junior társasjáték`
 ,`Math Dice Tournament kit társasjáték`
 ,`Matricák társasjáték`
@@ -4841,7 +4841,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mexikói párbaj kártyajáték`
 ,`Mi Mennyi? társasjáték`
 ,`Mi Micsoda Nagy kvíz`
-,`Miaubirintus társasjáték`
 ,`Miaui társasjáték`
 ,`Mice & Mystics társasjáték, angol nyelvű`
 ,`Michael Strogoff társasjáték, angol nyelvű`
@@ -7448,11 +7447,11 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Too Many Bones társasjáték`
 ,`Too Much Info társasjáték, angol nyelvű`
 ,`Toompea, Tallinn puzzle 500 pcs`
+,`Top 10: Kalandok – tematikus kooperatív társasjáték`
 ,`Top That! társasjáték`
 ,`Top Trumps: Harry Potter kártyajáték`
 ,`TOP10 (18+) társasjáték`
 ,`Top10 társasjáték`
-,`Top10: Kalandok társasjáték`
 ,`Toppling Tower fa ügyességi játék`
 ,`Toppling Tower társasjáték`
 ,`Tornado Ellie társasjáték, multinyelvű`
@@ -8109,7 +8108,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zombie Dice Horde Edition társasjáték, angol nyelvű`
 ,`Zombie Dice társasjáték, angol nyelvű`
 ,`Zombie Fluxx társasjáték`
-,`Zombie Kidz: Evolúció társasjáték`
+,`Zombie Kidz: Evolúció társasjáték | díjnyertes kooperatív kalandjáték gyerekeknek`
 ,`Zombie Teenz: Evolúció társasjáték`
 ,`Zombies vs Cheerleaders angol nyelvű társasjáték`
 ,`Zoo Run társasjáték, angol nyelvű`
