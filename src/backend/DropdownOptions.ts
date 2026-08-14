@@ -3,9 +3,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`1% - A csekély esélyek játéka`
 ,`1,2,3,társasjáték`
 ,`10 DICE társasjáték, angol`
-,`10 kvíz: A világ országai társasjáték`
-,`10 kvíz: Döbbenetes dinoszauruszok társasjáték`
-,`10 kvíz: Ámulatos állatvilág társasjáték`
+,`10 Kvíz – A világ országai társasjáték`
+,`10 Kvíz – Döbbenetes dinoszauruszok kártyajáték`
+,`10 Kvíz – Ámulatos állatvilág kártyajáték (52 állat)`
 ,`10' to kill angol nyelvű társasjáték`
 ,`1000 KM társasjáték`
 ,`111 Cosmic Creature társasjáték`
@@ -1050,8 +1050,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Bärenpark Bad News Bears kiegészítő, angol nyelvű`
 ,`Békaharcos társasjáték`
 ,`Bújócska készségfejlesztő kártyajáték`
-,`Bűbájműhely: Virágcsodák`
-,`Bűbájműhely: Álomszép hercegnők`
 ,`Bűnjelek: Gyilkosság HongKongban társasjáték`
 ,`Bűnkeverők kártyajáték`
 ,`Bűnügyi krónikák társasjáték`
@@ -5104,10 +5102,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mystic Vale társasjáték, angol nyelvű`
 ,`Mythos Tales angol nyelvű társasjáték`
 ,`Mágikus erdő társasjáték`
-,`Mágikus műhely: Az állatvilág csodái`
-,`Mágikus műhely: Kozmikus utazás`
-,`Mágikus műhely: Tündérszép birodalom`
-,`Mágikus műhely: Álomruhák`
+,`Mágikus műhely: Az állatvilág csodái – fóliás kreatív alkotókészlet`
+,`Mágikus műhely: Kozmikus utazás – fóliás matricaalkotó készlet`
+,`Mágikus műhely: Tündérszép birodalom – fóliás habmatrica kreatív készlet`
 ,`Mágikus Tekercsek társasjáték`
 ,`Mágneses autóverseny`
 ,`Mágneses pizzaverseny`
@@ -5255,7 +5252,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Nyerőszéria társasjáték`
 ,`NYET stratégiai társasjáték`
 ,`Nyilván társasjáték`
-,`Nyisz, nyisz!`
 ,`Nyomok sűrűjében társasjáték`
 ,`Nyomozópakli - Képmások társasjáték`
 ,`Nyomozópakli – Nem játszhatod ki a halált társasjáték`
@@ -6593,6 +6589,10 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sketch Off társasjáték`
 ,`Skibe társasjáték`
 ,`Skicc társasjáték`
+,`Skillmatics Bűbájműhely – Álomszép hercegnők kreatív készlet (Poke Art)`
+,`Skillmatics Bűbájműhely: Virágcsodák – Poke Art kreatív készlet`
+,`Skillmatics Mágikus műhely: Álomruhák – fóliás divattervező kreatív készlet`
+,`Skillmatics Nyisz, nyisz! – biztonsági ollós kreatív készlet 25 feladattal`
 ,`Skulk Hollow társasjáték, angol nyelvű`
 ,`Skull - Koponyák játéka társasjáték`
 ,`Skull társasjáték`
@@ -7447,11 +7447,11 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Too Many Bones társasjáték`
 ,`Too Much Info társasjáték, angol nyelvű`
 ,`Toompea, Tallinn puzzle 500 pcs`
-,`Top 10: Kalandok – tematikus kooperatív társasjáték`
 ,`Top That! társasjáték`
 ,`Top Trumps: Harry Potter kártyajáték`
-,`TOP10 (18+) társasjáték`
+,`Top10 (18+) társasjáték`
 ,`Top10 társasjáték`
+,`Top10: Kalandok – tematikus kooperatív társasjáték`
 ,`Toppling Tower fa ügyességi játék`
 ,`Toppling Tower társasjáték`
 ,`Tornado Ellie társasjáték, multinyelvű`
