@@ -152,7 +152,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A Kisvakond kertje társasjáték`
 ,`A kockahegyen is túl társasjáték`
 ,`A Kraken haragja társasjáték`
-,`A kuflik és az esőtánc társasjáték`
 ,`A légi társaság társasjáték`
 ,`A légi társaság: Turbulencia társasjáték kiegészítő`
 ,`A Mars - Idegen invázió társasjáték kiegészítő`
@@ -958,7 +957,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Brainbox - Ellentétek társasjáték`
 ,`Brainbox - Első képeim társasjáték`
 ,`Brainbox - Első állatok társasjáték`
-,`Brainbox - Hungary társasjáték`
 ,`Brainbox - Időutazó társasjáték`
 ,`Brainbox - Környezetismeret társasjáték`
 ,`Brainbox - Közlekedés társasjáték`
@@ -986,7 +984,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Brainbox Matematika kicsiknek társasjáték`
 ,`Brainbox Peppa malac`
 ,`Brainbox Sport`
-,`Brainbox, Angol nyelvlecke`
 ,`Brainbox, Foglalkozások`
 ,`Brainbox, Tudományos ismeretek`
 ,`BrainStorm - KreatíVagy? társasjáték`
@@ -1709,7 +1706,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Color Addict - Gyümölcsözön kártyajáték`
 ,`Color Addict - Kids, színek és formák kártyajáték`
 ,`Color Addict - Legyél Te is színfüggő! színes kártyajáték`
-,`Color Addict Puzzle - Absztrakt képkirakó`
 ,`Color Carpet társasjáték, angol nyelvű`
 ,`Color Code társasjáték`
 ,`Color Fold logikai játék`
@@ -2112,6 +2108,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dixit Odyssey - magyar kiadás`
 ,`Dixit társasjáték - magyar kiadás`
 ,`Dixit – Disney társasjáték`
+,`DJ Set partijáték – zenés kvíz és gyors reagálás`
 ,`Djeco - Animo Dice társasjáték`
 ,`Djeco - Athletic Games kártyajáték`
 ,`Djeco - Bee Logic játék`
@@ -2221,7 +2218,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Djeco Pyjama party társasjáték`
 ,`Djeco Rajzolni tanulok lépésről lépésre (Animals and Co)`
 ,`Djeco Rajzolni tanulok lépésről lépésre (Arthur and Co)`
-,`Djeco Rajzolni tanulok lépésről lépésre (Joséphine and Co)`
 ,`Djeco Rallye társasjáték`
 ,`Djeco Recto verso kártyajáték`
 ,`Djeco Sardines társasjáték`
@@ -2731,10 +2727,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Fekete történetek: Gyilkos spinék logisztori rejtvények`
 ,`Fekete történetek: Haláli halálok logisztori rejtvények`
 ,`Fekete történetek: Horror és rettegés logisztori rejtvények`
-,`Fekete történetek: Megtörtént esetek logisztori rejtvények`
 ,`Fekete történetek: Orbitális bukták logisztori rejtvények`
-,`Fekete történetek: Rémmesék logisztori rejtvények`
-,`Fekete történetek: Sorozatgyilkosok logisztori rejtvények`
 ,`Fekete történetek: Szent sz@r! logisztori rejtvények`
 ,`Fekete történetek: Szex & vér logisztori rejtvények`
 ,`Felelsz vagy mersz? - Buliii! kártyajáték`
@@ -4798,7 +4791,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Memorace – Elképesztő találmányok | Ismeretterjesztő memóriafejlesztő társasjáték (8+)`
 ,`Memorace – Fedezzük fel Európát! | Földrajzi ismeretterjesztő fejlesztő társasjáték (8+)`
 ,`Memorace – Pénzügyi tudatosság | Pénzügyi okosító fejlesztő társasjáték gyerekeknek (8+)`
-,`Memorace – Tanuljunk angolul | Angol szókincsfejlesztő fejlesztő társasjáték (7+)`
 ,`Memorace – Varázslatos mesék | Mesés memóriafejlesztő fejlesztő társasjáték (5+)`
 ,`Memorinth memóriafejlesztő társasjáték`
 ,`Memorize Animal Babies társasjáték`
@@ -6377,7 +6369,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rulebenders társasjáték, angol nyelvű`
 ,`Rum & Bones: Second Tide angol nyelvű társasjáték`
 ,`Rumini - A küldetés társasjáték`
-,`Rumini - A szétszakadt térkép társasjáték`
 ,`Rumini hajónapló társasjáték`
 ,`Rumini kincsesláda társasjáték`
 ,`Rumini römi társasjáték`
@@ -6861,7 +6852,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Stragoo Grabolo 3D társasjáték`
 ,`Stragoo Grabolo 4L`
 ,`Stragoo Grabolo társasjáték`
-,`Stragoo, Grabolo Bogyó és Babóca`
 ,`Stranger Things Eggo kártyajáték, angol nyelvű`
 ,`Stranger Things Monopoly`
 ,`Stranger Things társasjáték (magyar kiadás)`
@@ -8088,7 +8078,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zingo Boost 2. kiegészítés`
 ,`Zingo To Go logikai társasjáték`
 ,`Zingo társasjáték angol nyelvű`
-,`Zingo! 1-2-3 társasjáték`
 ,`Zingo! társasjáték`
 ,`Zingo! Társasjáték, angol nyelv`
 ,`Zogen társasjáték, angol nyelvű`
@@ -8124,7 +8113,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zugkocsma társasjáték`
 ,`Zweins társasjáték`
 ,`Zászlók a világ körül társasjáték`
-,`ZÉRÓ - a nulla, az nem semmi! kártyajáték`
 ,`Zöld a nyerő társasjáték`
 ,`Zöldellő mezők társasjáték`
 ,`Zümmögő meglepetés társasjáték`
