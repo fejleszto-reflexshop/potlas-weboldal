@@ -3,9 +3,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`1% - A csekély esélyek játéka`
 ,`1,2,3,társasjáték`
 ,`10 DICE társasjáték, angol`
-,`10 Kvíz – A világ országai társasjáték`
-,`10 Kvíz – Döbbenetes dinoszauruszok kártyajáték`
-,`10 Kvíz – Ámulatos állatvilág kártyajáték (52 állat)`
 ,`10' to kill angol nyelvű társasjáték`
 ,`1000 KM társasjáték`
 ,`111 Cosmic Creature társasjáték`
@@ -176,7 +173,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A misztikus erdő rejtélye logikai szabadulós játék`
 ,`A mozi legyen veled! társasjáték`
 ,`A méret a lényeg társasjáték`
-,`A nagy balhé: Európa társasjáték`
+,`A nagy balhé: Európa társasjáték | 2 fős taktikai párbaj, ajándék limitált promókártyával`
 ,`A Nagy Fal társasjáták - fafigurás verzió`
 ,`A Nagy Fal társasjáték -műanyag figurás verzió`
 ,`A nagy húzás társasjáték`
@@ -4288,7 +4285,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kínai sakk - fémdobozos`
 ,`Kóborló karaván társasjáték`
 ,`Kódfejtő társasjáték`
-,`Kódfejtő társasjáték`
+,`Kódfejtő – többszörösen díjnyertes asszociációs partijáték`
 ,`Kódok harca társasjáték`
 ,`Kókuszfókusz társasjáték`
 ,`Ködszerzet társasjáték`
@@ -4850,6 +4847,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mazescape - Labyrinthos társasjáték`
 ,`Mazescapes - Cryo-C társasjáték, angol nyelvű`
 ,`Mazescapes - Hipnos társasjáték, angol nyelvű`
+,`Mazing logikai társasjáték | szóló és páros agytorna`
 ,`MCG Premium Standard Euro kártyavédő (sleeve) - 50db/csomag`
 ,`Meadow társasjáték, angol nyelvű`
 ,`Mechanicus standard grey 400 ml`
@@ -5204,9 +5202,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mystic Vale társasjáték, angol nyelvű`
 ,`Mythos Tales angol nyelvű társasjáték`
 ,`Mágikus erdő társasjáték`
-,`Mágikus műhely: Az állatvilág csodái – fóliás kreatív alkotókészlet`
-,`Mágikus műhely: Kozmikus utazás – fóliás matricaalkotó készlet`
-,`Mágikus műhely: Tündérszép birodalom – fóliás habmatrica kreatív készlet`
 ,`Mágikus Tekercsek társasjáték`
 ,`Mágneses autóverseny`
 ,`Mágneses pizzaverseny`
@@ -5526,7 +5521,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pakal társasjáték`
 ,`Pakal társasjáték, angol nyelvű`
 ,`Palace of Mad King Ludwig társasjáték, angol nyelvű`
-,`Palackposta társasjáték`
+,`Palackposta - szóalkotó társasjáték`
 ,`Paladins Big Box`
 ,`PALADONE, HARRY POTTER WHO IS IT? társasjáték`
 ,`Panda Panda társasjáték`
@@ -6658,7 +6653,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Senjutsu: Két világ találkozásánál kiegészítő csomag`
 ,`Senjutsu: Szellem az éjszakában kiegészítő csomag`
 ,`Senkiföldje társasjáték`
-,`Sensu társasjáték`
+,`Sensu társasjáték – japán szett-gyűjtő stratégia 1–5 főre`
 ,`Sequence - Harry Potter társasjáték`
 ,`Sequence Classic - új kiadás`
 ,`Sequence Deluxe angol nyelvű társasjáték`
@@ -6751,10 +6746,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sketch Off társasjáték`
 ,`Skibe társasjáték`
 ,`Skicc társasjáték`
-,`Skillmatics Bűbájműhely – Álomszép hercegnők kreatív készlet (Poke Art)`
-,`Skillmatics Bűbájműhely: Virágcsodák – Poke Art kreatív készlet`
-,`Skillmatics Mágikus műhely: Álomruhák – fóliás divattervező kreatív készlet`
-,`Skillmatics Nyisz, nyisz! – biztonsági ollós kreatív készlet 25 feladattal`
+,`Skillmatics 10 Kvíz – A világ országai társasjáték`
+,`Skillmatics 10 Kvíz – Döbbenetes dinoszauruszok kártyajáték`
+,`Skillmatics 10 Kvíz – Ámulatos állatvilág kártyajáték (52 állat)`
 ,`Skulk Hollow társasjáték, angol nyelvű`
 ,`Skull - Koponyák játéka társasjáték`
 ,`Skull társasjáték`
