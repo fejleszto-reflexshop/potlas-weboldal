@@ -8082,9 +8082,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Vámpír: A Maszkabál - Riválisok kártyajáték`
 ,`Vándor lelkek földje társasjáték`
 ,`Vándorló tornyok társasjáték`
-,`Vándortáj társasjáték`
-,`Vándortáj: Az égbolt utazói kiegészítő`
-,`Vándortáj: Mélyvidék kiegészítő`
+,`Vándortáj társasjáték | díjnyertes stratégiai felfedezős játék 2–6 főre (As d'Or 2024)`
+,`Vándortáj: Az égbolt utazói kiegészítő | új pontozás a díjnyertes stratégiai társasjátékhoz`
+,`Vándortáj: Mélyvidék kiegészítő | új kártyák, immár akár 7 főig`
 ,`Vándortúra társasjáték`
 ,`Vár az Aurora társasjáték`
 ,`Városépítők társasjáték`
