@@ -7,6 +7,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`1000 KM társasjáték`
 ,`111 Cosmic Creature társasjáték`
 ,`12 Days társasjáték, angol nyelvű`
+,`12 folyó társasjáték – erőforrásgyűjtés a folyók mentén`
 ,`13 Clues társasjáték, angol nyelvű`
 ,`13 Days The Cuban Missile crisis angol nyelvű társasjáték`
 ,`13 Minutes The Cuban missile crisis angol nyelvű társasjáték`
@@ -174,6 +175,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A mozi legyen veled! társasjáték`
 ,`A méret a lényeg társasjáték`
 ,`A nagy balhé: Európa társasjáték | 2 fős taktikai párbaj, ajándék limitált promókártyával`
+,`A nagy balhé: Európa – promókártyák`
 ,`A Nagy Fal társasjáták - fafigurás verzió`
 ,`A Nagy Fal társasjáték -műanyag figurás verzió`
 ,`A nagy húzás társasjáték`
@@ -275,6 +277,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Activity Káosz társasjáték`
 ,`Activity Multi Challenge társasjáték`
 ,`Activity Playmobil társasjáték`
+,`Activity Pocket Junior`
 ,`Activity Pocket társasjáték`
 ,`Activity pótkérdések társasjáték`
 ,`Activity Solo and Team társasjáték`
@@ -283,6 +286,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Acélfenyves társasjáték`
 ,`Acélfenyves társasjáték és promókártya`
 ,`Acélmágnás társasjáték`
+,`Ada álma stratégiai társasjáték – steampunk ihletésű, komplex euro élmény`
 ,`Adepta Sororitas: Battle Sisters Squad minifigurák`
 ,`Adepta Sororitas: Retributor Squad minifigurák`
 ,`Adeptus Mechanicus: Ironstrider minifigurák`
@@ -1226,6 +1230,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Catan: Explorers & Pirates, angol nyelv`
 ,`Catan: Felfedezők és kalózok kiegészítő`
 ,`Catan: Kereskedők és Barbárok kiegészítő`
+,`Catan: Kereskedők és barbárok kiegészítő – moduláris bővítés a Catan: Telepeseihez`
 ,`Catan: Seafarers 5&6 Player Extension, angol nyelv`
 ,`Catan: Seafarers Game Expansion, angol nyelv`
 ,`Catan: Traders & Barbarians 5-6 Player Extension, angol nyelv`
@@ -2100,6 +2105,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dilimonádé társasjáték`
 ,`Ding! társasjáték`
 ,`DING! társasjáték, angol nyelvű`
+,`DINO - A Bázis társasjáték`
 ,`Dino Dump Mini társasjáték, angol`
 ,`Dino Dump társasjáték, angol nyelvű`
 ,`Dino Dump társasjáték, angol nyelvű`
@@ -2616,6 +2622,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Eufória - kocsiban játszós. családi játék`
 ,`Eufória - KOCSMATÚRA iszogatós társasjáték`
 ,`Eufória - Tüzes 18+ ivós kártyajáték`
+,`Eufória túrajáték – interaktív családi kártyajáték erdei sétákhoz`
 ,`Euphoria angol nyelvű társasjáték`
 ,`Euro Card Sleeve (Pack of 100) -59 MM X 92 MM`
 ,`Euro Card Sleeve -Black Backed (Pack of 100) -59 MM X 92 MM`
@@ -2641,12 +2648,15 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Ex Libris Expanded Archives társasjáték, angol nyelvű`
 ,`Excavation Earth társasjáték, angol nyelvű`
 ,`Exiled Siege angol nyelvu társasjáték`
+,`EXIT -  Kapu a Világok között`
 ,`EXIT - A játék + Puzzle 1: Az elveszett templom társasjáték`
 ,`EXIT - A játék + Puzzle: A magányos világítótorony társasjáték`
 ,`EXIT - A nagy Catan kaland társasjáték`
 ,`EXIT - A Sötétség Temetője társasjáték`
+,`EXIT - Az elhagyott kunyhó`
 ,`EXIT - Az elvarázsolt erdő társasjáték`
 ,`EXIT - Az elátkozott labirintus társasjáték`
+,`EXIT - Catan`
 ,`EXIT - Kapu a Világok között társasjáték`
 ,`EXIT - Sherlock Holmes rejtélyes eltűnése társasjáték`
 ,`Exit 1. Az elhagyatott kunyhó szabaduló társasjáték`
@@ -3923,6 +3933,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Játszva megismerjük az órát társasjáték`
 ,`Játékok harca`
 ,`Játékos írás társasjáték`
+,`JÉG gyűjtői változat – társasjáték (2. kiadás) deluxe komponensekkel`
 ,`Jég résen! kártyajáték`
 ,`Jégkocka társasjáték`
 ,`Jégvarázs 2 UNO kártyajáték`
@@ -4185,6 +4196,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kodama Duo, társasjáték, angol nyelvű`
 ,`Kodama: Az erdő szellemei társasjáték`
 ,`Koi`
+,`Kokeshi társasjáték – japán kézműves babakészítés és boldogságpontok`
 ,`Kokonana társasjáték`
 ,`Kokopelli`
 ,`Kokopelli társasjáték kiegészítő, angol nyelvű`
@@ -4899,6 +4911,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mennyit mutat az óra?`
 ,`Mennyország, jövök! társasjáték`
 ,`Mentocsónakok - A Kalózok csatája`
+,`Mentocsónakok - A Kalózok csatája`
 ,`Mentsd meg a bolygót társasjáték`
 ,`Menzacsata kártyajáték`
 ,`Meow kártyajáték, angol nyelvű`
@@ -4980,6 +4993,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mini Dice Games - Shut the Box kockajáték`
 ,`Mini Game Party társasjáték, angol nyelvű`
 ,`Mini Games Club`
+,`Minigolf Designer társasjáték – magyar kiadás`
 ,`Mining Colony társasjáték, angol nyelvű`
 ,`Minnie egér MINI Fekete Péter kártya`
 ,`Mino and Tauri társasjáték`
@@ -5222,6 +5236,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mítosz társasjáték`
 ,`Mókusfutam társasjáték`
 ,`Mókuskaland társasjáték`
+,`Mölkky Minipeli fa szabadtéri játék`
 ,`Múzsa: Sugallatok társasjáték`
 ,`Műanyag dobozos klasszikus dominó`
 ,`Műgyűjtők társasága társasjáték`
@@ -6220,6 +6235,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pungi társasjáték`
 ,`Punto kártyajáték`
 ,`Puppy and Roses puzzle 500 pcs`
+,`Pura Vida`
 ,`Purple`
 ,`Purple`
 ,`Push társasjáték`
@@ -6234,6 +6250,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Párizs 2021 társasjáték`
 ,`Párizs: A fények városa társasjáték`
 ,`Pókháló társasjáték`
+,`Pókok, pöttyök, cukorkák`
 ,`Pöccenő próféták társasjáték`
 ,`Pöttyök társasjáték`
 ,`Pöttyös dínók`
@@ -6529,6 +6546,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rumini kincsesláda társasjáték`
 ,`Rumini römi társasjáték`
 ,`RUMMICLASIC TRAVEL METAL BOX`
+,`Rummikub City Budapest`
 ,`Rummikub City Edition BUDAPEST társasjáték`
 ,`Rummikub kiegészítő ( 5-6 játékos)`
 ,`Rummikub Luxury társasjáték`
@@ -6555,6 +6573,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rákfogó társasjáték`
 ,`Régicide társasjáték, angol nyelvű`
 ,`Róka Móka`
+,`Róka Móka`
 ,`Rókanyomon társasjáték`
 ,`Rókavadászat társasjáték`
 ,`Róma dicsősége társasjáték`
@@ -6565,6 +6584,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`S.T.A.L.K.E.R.: A társasjáték – kooperatív kaland a Zónában (1–4 játékos)`
 ,`S.T.A.L.K.E.R.: A társasjáték – Személyes történetek kiegészítő`
 ,`S.T.A.L.K.E.R.: A társasjáték – Szörnyvadász (karakter/forgatókönyv)`
+,`Sacred Valley: Urubamba völgye társasjáték – farmépítés és lapkalerakás az inkák korában`
 ,`Sagani társasjáték, angol nyelvű`
 ,`Sagrada Life, kiegészítő, angol nyelvű`
 ,`Sagrada társasjáték`
@@ -7250,6 +7270,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tactic - Magic Forest`
 ,`Tactic - Never Would We Ever`
 ,`Tactic - Pirate Kimble`
+,`Tactic - ProPoker Poker Set 200 in Aluminium Case`
+,`Tactic - ProPoker Texas Hold'em Poker Set`
 ,`Tactic - ProPoker Texas Hold'em Poker Set`
 ,`Tactic - Quick Words`
 ,`Tactic - Rovinj-Rovigno puzzle 500 pcs`
@@ -7428,6 +7450,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`The Elder Scrolls V: Skyrim - A kalandjáték társasjáték`
 ,`The Elder Scrolls: A másodkor árulása "gameplay" csomag`
 ,`The Elder Scrolls: A másodkor árulása (alapjáték)`
+,`The Elder Scrolls: A Másodkor árulása – All-in csomag (stratégiai kampányjáték)`
 ,`The Elder Scrolls: Tamriel sajtjai mini kiegészíto`
 ,`The Elder Scrolls: Valenvadon kiegészíto`
 ,`The Expanse társasjáték, angol nyelvű`
@@ -8093,6 +8116,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Végtelen kesztyű társasjáték`
 ,`Végtelen tél - Amerika őslakosai társasjáték`
 ,`Végzetek - Egy legendás kor sötét krónikái társasjáték`
+,`Véres óratorony: Körhinta – kiegészítő (kísérleti karakterek)`
 ,`Vérfarkasok Miller's Hollow-ban társasjáték`
 ,`Vírus kártyajáték`
 ,`Vírus kártyajáték`
@@ -8386,7 +8410,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zümmögő társasjáték`
 ,`Ábrándos bárányok társasjáték`
 ,`Álarcosbál társasjáték`
-,`Állami Mutyi Közpénz Kártya – humoros kártyajáték`
+,`Állami Mutyi Közpénz Kártya – Mutyibank NFC kártya`
 ,`Állami Mutyi társasjáték – szatirikus politikai partijáték`
 ,`Állami Mutyi – Női harcosok kiegészítő pakli`
 ,`Állat bingó mágneses társasjáték`
