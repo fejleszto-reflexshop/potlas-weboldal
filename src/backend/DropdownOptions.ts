@@ -5432,8 +5432,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Operators társasjáték`
 ,`Operáció társasjáték-  Mancs őrjárat kiadás (magyar nyelvű)`
 ,`Oracle of Delphi társasjáték, angol nyelvű`
-,`Orapa: A mélység kincsei társasjáték`
-,`Orapa: Az űr titkai társasjáték`
+,`Orapa társasjáték – Az űr titkai | logikai nyomozás a bolygók között`
+,`Orapa – A mélység kincsei társasjáték | deduktív logikai gyémántvadászat`
 ,`Orbis társasjáték, angol nyelvű`
 ,`Orbito társasjáték`
 ,`Orchard - Béka-buli társasjáték`
