@@ -1324,6 +1324,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Chessex d6 kocka, dupla oldallal, narancs, fekete számokkal`
 ,`Chessex d6 kocka, dupla oldallal, szürke, arany számokkal`
 ,`Chessex d6 kocka, dupla oldallal, sárga, fekete számokkal`
+,`Chessex Gemini Gel dobókocka készlet – zöld és rózsaszín/kék`
 ,`Chessex Gemini Polyhedral - d10(0-9) dobókocka`
 ,`Chessex Műanyag tároló állvány`
 ,`Chessex Opaque - d6 dobókocka`
