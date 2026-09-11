@@ -2442,7 +2442,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Díjnyertes Mystery Box`
 ,`Dínó futam társasjáték`
 ,`Dűlőre jutunk társasjáték`
-,`Dűne Impérium: Összeesküvés kiegészítő`
 ,`Dűne – A hódítás és diplomácia játéka társasjáték`
 ,`Dűne – Árulás társasjáték`
 ,`Dűne: Homokba temetett titkok társasjáték`
@@ -2450,6 +2449,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dűne: Impérium - Az Ix felemelkedése csatahajó kiegészítő csomag`
 ,`Dűne: Impérium - Az Ix felemelkedése kiegészítő`
 ,`Dűne: Impérium - Vérvonal kiegészítő`
+,`Dűne: Impérium - Összeesküvés kiegészítő`
 ,`Dűne: Impérium exkluzív kiegészítő csomag`
 ,`Dűne: Impérium társasjáték`
 ,`Dűne: Impérium – Felkelés társasjáték`
@@ -4533,6 +4533,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Macskanapok társasjáték`
 ,`Macskák szigete társasjáték`
 ,`Macskák vs. uborkák társasjáték | gyors, vicces családi partijáték AJÁNDÉK minikiegészítővel`
+,`Macskák vs. uborkák: Rémséges zöldségek – minikiegészítő`
 ,`Mada társasjáték, angol nyelvű`
 ,`MadBlox (New) társasjáték`
 ,`MadBus társasjáték`
