@@ -978,7 +978,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Brainbox - Quiz családi társas társasjáték`
 ,`Brainbox - Találmányok társasjáték`
 ,`Brainbox - Világtörténelem társasjáték`
-,`Brainbox - Világutazó társasjáték`
 ,`Brainbox - Állatok társasjáték`
 ,`Brainbox ABC kicsiknek társasjáték`
 ,`Brainbox Bogyó és Babóca társasjáték`
@@ -5918,7 +5917,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piratoons társasjáték`
 ,`Piros történetek logisztori rejtvények`
 ,`Piszkos Fred 2. magyar kiadás`
-,`Pitch & Plakks társasjáték`
 ,`Pitchstorm társasjáték, angol nyelvű`
 ,`Pitypang és Lili - Segíts a kutyusoknak társasjáték`
 ,`Pitypang és Lili memóriajáték`
@@ -6049,12 +6047,19 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon SV10 Destined Rivals - Elite Trainer Box gyűjtői kártya`
 ,`Pokémon SV10 Destined Rivals - Premium Checklane Blister gyűjtői kártya`
 ,`Pokémon TCG 2024 Poké Ball Tin – Pokéball alakú fémdoboz 3 boosterrel`
+,`Pokémon TCG 30th Anniversary ex fémdoboz – Greninja ex promó kártyával`
+,`Pokémon TCG 30th Celebration 2-Pack Blister – Double Wide (Eevee promó + Pikachu érme)`
+,`Pokémon TCG 30th Celebration Binder Collection – 9 zsebes gyűjtőmappa booster csomagokkal`
+,`Pokémon TCG 30th ex Box – Variant A (gyűjtői kártyás doboz)`
+,`Pokémon TCG 30th ex Box – Variant B (kártyajáték gyűjtői doboz)`
+,`Pokémon TCG 30th Poster Collection – poszter és promó kártyák + booster csomagok`
 ,`Pokémon TCG First Partners Illustration Collection – Series 3 gyűjtői csomag`
 ,`Pokémon TCG Mega Evolution 01 - Booster`
 ,`Pokémon TCG Mega Evolution 01 - Enhanced Booster Display`
 ,`Pokémon TCG Mega Evolution 01 - Mega Heroes Mini Tin`
 ,`Pokémon TCG Mega Evolution 01 - Mega Latias ex Box`
 ,`Pokémon TCG SV8.5 Prismatic Evolutions Elite Trainer Box – gyűjtő- és kezdő szett 9 boosterrel`
+,`Pokémon TCG: 30th Elite Trainer Box – 30th Celebration bővítés`
 ,`Pokémon TCG: Advent Calendar 2025`
 ,`Pokémon TCG: Battle Academy 2024`
 ,`Pokémon TCG: Collectors Chest 2025`
