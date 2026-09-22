@@ -2141,7 +2141,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dixit Odyssey - magyar kiadás`
 ,`Dixit társasjáték - magyar kiadás`
 ,`Dixit – Disney társasjáték`
-,`DJ Set partijáték – zenés kvíz és gyors reagálás`
+,`DJ Set társasjáték | zenei asszociációs partijáték 3–16 főre`
 ,`Djeco - Animo Dice társasjáték`
 ,`Djeco - Athletic Games kártyajáték`
 ,`Djeco - Bee Logic játék`
