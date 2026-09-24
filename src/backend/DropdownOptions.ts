@@ -7927,13 +7927,15 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Unmatched - Edgy BLACK Card Sleeves`
 ,`Unmatched Adventures: Tales to Amaze (EN/FR) Pins`
 ,`Unmatched Buffy the Vampire Slayer, társasjáték, angol nyelvű`
-,`Unmatched Kalandok: Teenage Mutant Ninja Turtles társasjáték`
+,`Unmatched Kalandok: Teenage Mutant Ninja Turtles (TMNT) társasjáték | AJÁNDÉK limitált kártyacsomag alternatív illusztrációkkal`
 ,`Unmatched Kalandok: Titokzatos történetek tokenek`
 ,`Unmatched Kalandok: Titokzatos történetek társasjáték`
-,`Unmatched TMNT Deluxe Token Pack`
-,`Unmatched TMNT Neoprene Battlefield Mat`
-,`Unmatched TMNT Sleeve Pack`
-,`Unmatched TMNT Ultimate Miniatures Pack`
+,`Unmatched Kalandok: TMNT – Collector Coin | prémium fém gyűjtői érme, kb. 50 mm, 3 mm vastag (nemzetközi kiadás)`
+,`Unmatched Kalandok: TMNT – Deluxe Token Pack | 24 Fürgeláb katona figura + 17 akril zseton (nemzetközi kiadás)`
+,`Unmatched Kalandok: TMNT – Extra Toppings, Ultimate Miniatures Pack | 16 részletgazdag figura (nemzetközi kiadás)`
+,`Unmatched Kalandok: TMNT – Neoprén játéktábla (Battlefield Mat) | kétoldalas, 2 mm vastag prémium játéktábla (nemzetközi kiadás)`
+,`Unmatched Kalandok: TMNT – Sleeve Pack (kártyavédő szett) | 300+ egyedi mintás, prémium matt hátú kártyavédő (nemzetközi kiadás)`
+,`Unmatched Kalandok: TMNT – Zúzó vs Krang kiegészítő (magyar kiadás)`
 ,`Unmatched: A felkelő nap társasjáték`
 ,`Unmatched: A szabadság földje társasjáték`
 ,`Unmatched: Brains and Brawn társasjáték, angol nyelvű`
