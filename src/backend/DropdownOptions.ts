@@ -23,6 +23,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`202 Crazy Collect társasjáték`
 ,`21 - Tudod vagy mered? társasjáték`
 ,`21 Pirate társasjáték, angol nyelvű`
+,`21. Század Kiadó Budapest titkai társasjáték – városismereti kvíz és küldetésjáték`
 ,`2Gether társasjáték`
 ,`3 az 1-ben sakk társasjáték`
 ,`3 Ring Circus társasjáték, angol nyelvű`
@@ -219,6 +220,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A vadon urai társasjáték`
 ,`A világ csodái társasjáték`
 ,`A világ csodái társasjáték`
+,`A világ legboldogabb cicája! társasjáték – macskaotthon-építős családi játék`
 ,`A világ legkisebb kirakósa - Tower Bridge puzzle`
 ,`A világ története társasjáték`
 ,`A viszkis - A haramiák játéka! kártyajáték`
@@ -443,6 +445,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Arcadia Quest Inferno angol nyelvű társasjáték`
 ,`Arch Ravels társasjáték, angol nyelvű`
 ,`Archelino társasjáték`
+,`Archeo kooperatív gyerek társasjáték – Dinócsontok nyomában`
 ,`ArcheOlogic társasjáték, angol nyelvű`
 ,`ArcheOlogic társasjáték, multinyelvű`
 ,`Archipelago társasjáték`
@@ -474,6 +477,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Arnak elveszett romjai társasjáték`
 ,`Arnak elveszett romjai: Az eltűnt expedíció kiegészítő`
 ,`Arnak elveszett romjai: Expedícióvezetők kiegészítő (magyar nyelvű)`
+,`Arnak elveszett romjai: Meglepetés szállítmány – kiegészítő`
 ,`Arnak elveszett romjai: Sötét útvesztők kiegészítő`
 ,`Around the Block társasjáték, angol nyelvű`
 ,`Art Gallery társasjáték`
@@ -567,6 +571,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Az erdő - Dartmoor: Exmoor kiegészítő`
 ,`Az erdő mélyén társasjáték`
 ,`Az erdő társasjáték`
+,`Az Erdő – Smoky Mountains önálló társasjáték`
 ,`Az erdő: Alpok kiegészítő`
 ,`Az erdő: Cserjék kiegészítő`
 ,`Az erdő: Felfedezés kiegészítő társasjáték`
@@ -579,9 +584,11 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Az utolsó erőd társasjáték`
 ,`Az utolsó perc társasjáték`
 ,`Az utolsó péntek társasjáték (átdolgozott kiadás)`
+,`Az utolsó titán társasjáték – pörgős arénaharc kockapárbajokkal`
 ,`Az X bolygó nyomában társasjáték`
 ,`Az álomtündér memóriajáték`
 ,`Az Árulók - Gyilkosság a kastélyban társasjáték`
+,`Az Árulók kártyajáték – megtévesztés és bizalompróba`
 ,`Az Árulók-Gyilkosság a kastélyban kiegészítő szett`
 ,`Az égbolt vándorai társasjáték`
 ,`Az éhség társasjáték`
@@ -855,6 +862,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Big Bazar társasjáték`
 ,`BIG BOOK OF MADNESS - társasjáték, angol nyelvű`
 ,`Big Book of Madness: the Vth element kiegészítő, angol nyelvű`
+,`Big Sur társasjáték – útépítős kártyadraft a Csendes-óceáni parton`
 ,`Big Top társasjáték, angol nyelvű`
 ,`Bill & Ted's Excellent Boardgame angol nyelvű`
 ,`Billionaire Banshee társasjáték, angol nyelvű`
@@ -1025,6 +1033,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Broken and Beautiful Standard Edition társasjáték, angol nyelvű`
 ,`Broom Service  EN/F`
 ,`Broom Service angol nyelvű társasjáték`
+,`Brushwood – Az erdő kincsei társasjáték`
 ,`Bruxelles 1893 angol nyelvű társasjáték`
 ,`Brúnó Budapesten - Dunafutam társasjáték`
 ,`Brúnó Budapesten - Városnézés társasjáték`
@@ -1189,6 +1198,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Cascadia Junior társasjáték`
 ,`Cascadia vadvilága társasjáték`
 ,`Cascadia vadvilága: Új tájakon társasjáték kiegészítő`
+,`Cascadia – Tengerszemek társasjáték (önálló alapjáték)`
 ,`Cash 'n Guns társasjáték More Cash & More Guns kiegészítő, angol`
 ,`Cash 'n' Guns társasjáték`
 ,`Castellers, angol nyelvű társasjáték`
@@ -1737,6 +1747,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Coffee Roaster társasjáték, angol nyelvű`
 ,`Coffee Rush társasjáték`
 ,`Coffee Rush: Hab a tortán kiegészítő`
+,`Coffee Rush: Téli kiadás társasjáték – pörgős barista kihívás téli italokkal`
 ,`Cogno Cards™ Alto | modern kártyajáték`
 ,`Cogno Cards™ Coloro | horizontal kártyajáték`
 ,`Cogno Cards™ Hi-Lo | Guesso | OUT!  | 3 az 1-ben kártyajátékok`
@@ -2161,6 +2172,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dixit Odyssey - magyar kiadás`
 ,`Dixit társasjáték - magyar kiadás`
 ,`Dixit – Disney társasjáték`
+,`Dixit: Gonosztevők – kiegészítő (Disney & Pixar illusztrációk)`
+,`Dixit: Kalandok és rejtélyek – kiegészítő (21 kártya, Disney & Pixar ihletés)`
 ,`DJ Set társasjáték | zenei asszociációs partijáték 3–16 főre`
 ,`Djeco - Animo Dice társasjáték`
 ,`Djeco - Athletic Games kártyajáték`
@@ -2427,6 +2440,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dudab Buba társasjáték`
 ,`Dudab kártyajáték`
 ,`Duelosaur Island társasjáték, angol nyelvű`
+,`Dugókutya kártyajáték – Kiegészítő gyűjtemény (3 modul)`
+,`Dugókutya zsebkártyajáték – Alapjáték`
 ,`Dumb Questions To Ask Your friends társasjáték, angol nyelvű`
 ,`Dumb Ways to Die: A játék társasjáték`
 ,`Dune (2019) társasjáték Ixians & Tleilaxu House kiegészítő, angol nyelvű`
@@ -2792,9 +2807,13 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Fedőnevek 2. kiadás társasjáték`
 ,`Fedőnevek Disney társasjáték`
 ,`Fedőnevek képekkel társasjáték`
+,`Fedőnevek képekkel: Állatkák – kiegészítő képkártyák`
 ,`Fedőnevek Négyszemközt 2.kiadás társasjáték`
+,`Fedőnevek: Mesés történetek – tematikus kiegészítő`
+,`Fedőnevek: Sci-Fi – tematikus kiegészítő`
 ,`Feelinks angol nyelvű társasjáték`
 ,`Feelinks társasjáték`
+,`FejjelLefeléKihívás játék – Party Mode partijáték`
 ,`Fekete Puli - Fekete Péter kártya`
 ,`Fekete Péter gyerekkártya - Kutyák`
 ,`Fekete Péter gyerekkártya - Lurkók`
@@ -3474,6 +3493,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Harcmezők - Ütközetek a világ romjain társasjáték`
 ,`Hard to Get társasjáték, angol nyelvű`
 ,`Harmónia társasjáték`
+,`Harmónia: Felemelkedés kiegészítő – 3 modul az alapjáték bővítéséhez`
 ,`Harmónia: Ritmus kiegészítő – új állatkártyák és tükrözhető minták`
 ,`Harrow County társasjáték, angol nyelvű`
 ,`Harry Potter - A Roxfortba megyek! - kártyajáték`
@@ -3537,6 +3557,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Haspók társasjáték`
 ,`Hatodik érzék társasjáték`
 ,`Havasok társasjáték`
+,`Hawaiki Islands társasjáték – pakliépítés és munkáslehelyezés a szigetvilágban`
 ,`HEAT - Padlógáz társasjáték`
 ,`Heat: Esőfutam - társasjáték kiegészítő`
 ,`Heat: Hajtűkanyar társasjáték kiegészítő`
@@ -3617,6 +3638,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Hitster társas Mozifilm és TV`
 ,`Hitster társasjáték (nemzetközi kiadás)`
 ,`Hitster társasjáték - Summer Party`
+,`Hitster: Christmas társasjáték-kiegészítő – karácsonyi zenei kártyák a Hitsterhez`
 ,`HitStory társasjáték`
 ,`Hive Carbon stratégiai társasjáték`
 ,`Hive Carbon, Pincebogár kiegészítő`
@@ -3766,6 +3788,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Időfutár kártyajáték`
 ,`Időfutár társasjáték`
 ,`Időhurok társasjáték`
+,`Időhurok: Délibáb kiegészítő – új fejezet és új szabályok`
 ,`Időjárásgép - A szabotőrök társasjáték kiegészítő`
 ,`Időjárásgép társasjáték`
 ,`Idővonal - Timeline - magyar kiadás`
@@ -4015,6 +4038,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kameleo társasjáték`
 ,`Kamisado társasjáték`
 ,`Kamisado társasjáték`
+,`Kamu Detektor Roulette felnőtt partijáték – rulettkerékkel és elektronikus hazugságvizsgálóval`
 ,`Kamu detektor társasjáték`
 ,`Kamu társasjáték`
 ,`Kamuzol kártyajáték`
@@ -4093,6 +4117,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kensho - S'Match társasjáték`
 ,`Kereszt és Félhold társasjáték`
 ,`Kerge futam`
+,`Kergecerka társasjáték – mozgó cerkás rajzolós és tippelős csapatjáték`
 ,`Kero`
 ,`Kerti kalamajka társasjáték`
 ,`Kerti rejtély társasjáték`
@@ -4318,6 +4343,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kártyavédő, Prem. Space Alert/Dungeon Petz`
 ,`Kártyavédő, Prem. Square Card (50db) 80 x 80 mm`
 ,`Kártyavédő, Square Medium 80x80mm`
+,`Káröröm kártyajáték – csavaros ütésvivős taktika`
 ,`Kávéház Kártja kártyajáték`
 ,`Képmesék társasjáték`
 ,`Képregényes kalandok: Fogságban`
@@ -4392,6 +4418,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Le Havre angol nyelvű társasjáték`
 ,`Leadbelcher spray 400 ml`
 ,`Leaf társasjáték, angol nyelvű`
+,`LEDA kétszemélyes aszimmetrikus stratégiai társasjáték`
 ,`Legacy Five Families kiegészítő, angol nyelvű`
 ,`Legend of The Five Rings LCG Fate Has No Secrets kiegészítő, angol nyelvű`
 ,`Legend of The Five Rings LCG For Honor and Glory kiegészítő, angol nyelvű`
@@ -4598,6 +4625,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Magic Market társasjáték, angol nyelvű`
 ,`Magic Maze - Fogd és Fuss! társasjáték`
 ,`Magic Tarot by Amaia Arrazola tarotkártya`
+,`Magic Tim interaktív társasjáték – beszélő állatos kvízjáték`
 ,`Magic: The Gathering - Aetherdrift Bundle gyűjtői kártya`
 ,`Magic: The Gathering - Aetherdrift Collector Booster gyűjtői kártya`
 ,`Magic: The Gathering - Aetherdrift Play Booster gyűjtői kártya`
@@ -4812,6 +4840,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Match Mickey & Friends társasjáték, multinyelvű`
 ,`Match Minions 2 társasjáték, multinyelvű`
 ,`Match Miraculous társasjáték, multinyelvű`
+,`Match My Beat – zenei partijáték (magyar kiadás)`
 ,`Match Paw Patrol 2021 társasjáték, multinyelvű`
 ,`Match Pixar társasjáték, multinyelvű`
 ,`Match Star Wars társasjáték, multinyelvű`
@@ -5053,6 +5082,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mint Delivery , társasjáték, angol nyelvű`
 ,`Mint Delivery társasjáték, angol nyelvű`
 ,`Minyonok 2 UNO kártya`
+,`Mirogolo társasjáték – szavazás és szövetségek partijáték`
 ,`MISONIMO fejlesztő kártyajáték`
 ,`Mission Control Critical Orbit társasjáték, angol nyelvű`
 ,`Mission Impractical társasjáték, angol nyelvű`
@@ -5184,6 +5214,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Muffin Time társasjáték, angol nyelvű`
 ,`Muhammad Ali kártya`
 ,`Mumus maflás társasjáték`
+,`Mumusok társasjáték – egymás ébren tartása, verseny az elalvásért`
 ,`Munchkin  - Warhammer 40 000, Vadak és varázslók kiegészítő`
 ,`Munchkin - A Jó, a Rossz és a Munchkin 2. - Vesszőzöd a paripát`
 ,`Munchkin - Cthulhu társasjáték (2019)`
@@ -5314,6 +5345,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Nations The Dice Game társasjáték Unrest kiegészítő társasjáték, angol nyelvű`
 ,`Natúr bravúr társasjáték`
 ,`Navoria felfedezői társasjáték`
+,`Ne húzd le a halacskát – ügyességi társasjáték`
 ,`Necrons: Immortals minifigurák`
 ,`Nehéz döntések: Küzdelem a túlélésért társasjáték`
 ,`Nekojima társasjáték`
@@ -5411,6 +5443,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Nusfjord angol nyelvű társasjáték`
 ,`NUTZ! társasjáték`
 ,`Nyctophobia társasjáték, angol nyelvű`
+,`Nyerő szavak kooperatív asszociációs partijáték – közös szóháló és ráhangolódás`
+,`Nyerő számok társasjáték – szerencse és számsorrend a lóherés kertben`
 ,`Nyerő ötös társasjáték`
 ,`Nyerőleves társasjáték`
 ,`Nyerőszéria társasjáték`
@@ -5578,6 +5612,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`P for Pizza  társasjáték, angol`
 ,`P mint Pizza társasjáték`
 ,`Pacal's Rocket társasjáték`
+,`Pagan: Az elveszett kolónia rejtélye – aszimmetrikus, nyomozós kártyajáték`
 ,`Pagodák kertje társasjáték`
 ,`Pagony társasjáték`
 ,`Pair memóriajáték, angol nyelvű`
@@ -5648,6 +5683,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pass The Pasta ! társasjáték, angol nyelvű`
 ,`Passing Trough Petra társasjáték, angol nyelvű`
 ,`Passt, számos társasjáték`
+,`Passzold a Pandát társasjáték – kockadobós, gyors körök`
 ,`Pastel Series póker kártya -lila-fehér`
 ,`Pastel Series színes póker kártya, kék`
 ,`Pastel Series színes póker kártya, zöld`
@@ -6191,6 +6227,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Poodle Taxi társasjáték`
 ,`Pop up Bluey`
 ,`Popcorn társasjáték, angol nyelvű`
+,`Popsi-Pumpa-Párbaj ügyességi partijáték – lufipukkasztós pumpapárbaj 2 játékosnak`
 ,`Popular Plaything - Hexacus 25 db-os építő játék`
 ,`Popular Plaything - Monkey Math fejlesztőjáték`
 ,`Popular Plaything - Twist and Slide puzzle kirakó, katicabogár`
@@ -6547,6 +6584,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Robbanó cicák - mini társasjáték`
 ,`Robbanó cicák - Partipakk társasjáték`
 ,`Robbanó cicák kártyajáték`
+,`Robbanó cicák társasjáték – pörgős, vicces partijáték`
 ,`Robbanó cicák – Menny és pokol! társasjáték`
 ,`Robbanó cicák: NSFW kiadás társasjáték`
 ,`Robbanó minyonok kártyajáték`
@@ -6791,7 +6829,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Shipwrights of the North Sea társasjáték, angol nyelvű`
 ,`Shit happens társasjáték`
 ,`Shit happens: A malőr 50 árnyalata társasjáték`
-,`Shit Happens: Mind meghalunk! társasjték`
+,`Shit Happens: Mind meghalunk! társasjáték | Fekete humorú partijáték felnőtteknek`
 ,`Shoot for the Stars társasjáték, angol nyelvű`
 ,`Shuffle - Color Addict GO! - Legyél Te is színfüggő! kártyajáték`
 ,`Shuffle - Hurrá utazunk! úti kártyajáték`
@@ -7102,6 +7140,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Stoner Loonacy társasjáték, angol nyelvű`
 ,`Stop! Társasjáték`
 ,`Storigolo társasjáték`
+,`Story Time Chess – Sakkmese oktató társasjáték gyerekeknek`
 ,`Storyfold: Árnyrengeteg | történetvezérelt kaland társasjáték`
 ,`Stragoo Figolo kártyajáték`
 ,`Stragoo Fipolino társasjáték`
@@ -7163,6 +7202,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sushi Go társasjáték`
 ,`Sushi Roll társasjáték`
 ,`Sweet & Spicy társasjáték`
+,`Sweet Victory társasjáték – gyorsasági, egykezes ügyességi kihívás`
 ,`Swish Junior társasjáték`
 ,`Swish társasjáték - magyar kiadás`
 ,`Swordcrafters társasjáték, angol nyelvű`
@@ -7304,6 +7344,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sárkányok völgye társasjáték`
 ,`Sárkánytojás társasjáték`
 ,`Sínen vagyunk kártyajáték`
+,`Söprés! társasjáték – gyors, könnyen tanulható kártyajáték`
 ,`Sör és kenyér társasjáték`
 ,`Sündörgő megmentő logikai játék`
 ,`Süniálom társasjáték`
@@ -7325,6 +7366,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Taboo társasjáték`
 ,`Tabriz társasjáték`
 ,`Tabu társasjáték új kiadás`
+,`Taco vs. Burrito partijáték – őrült kajacsata kártyákkal`
 ,`Taco, cica, pizza társasjáték`
 ,`Tacocat Spelled Backwards kártyajáték, angol nyelvű`
 ,`Tactic - Choco (multi)`
