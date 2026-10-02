@@ -1065,6 +1065,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Burning Cookies kártyajáték – pörgős, vidám családi partijáték`
 ,`Burritó hajító társasjáték`
 ,`Bushido társasjáték, angol nyelvű`
+,`Busó Rege taktikai kártyajáték – maszkfaragás és télbúcsúztató hangulat`
 ,`Buurn társasjáték, angol nyelvű`
 ,`Buzz Me If You Can társasjáték`
 ,`Buzzed Tower társasjáték, angol nyelvű`
@@ -1381,6 +1382,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Chessex: Translucent Polyhedral - lila és fehér dobókocka készlet`
 ,`Chessex: Translucent Polyhedral - vörös és fehér dobókocka készlet`
 ,`Chessex: Translucent Polyhedral - zöld és fehér dobókocka készlet`
+,`Chessmill absztrakt társasjáték – sakk és malom ihlette stratégiai párbaj`
 ,`Chicago Stock Exchange társasjáték`
 ,`Chicago: A kampánycsata társasjáték`
 ,`Chicken Heist társasjáték, angol nyelvű`
@@ -2128,6 +2130,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Die of the Dead társasjáték, angol nyelvű`
 ,`Difference Junior társasjáték`
 ,`Difference társasjáték`
+,`Difference: Asterix – gyors megfigyelős kártyajáték`
 ,`Dig Mars társasjáték, angol nyelvű`
 ,`Dig Your Way Out társasjáték, angol nyelvű`
 ,`Dig Your Way Out: Dig in kiegészítő, angol nyelvű`
@@ -2143,6 +2146,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dino Kalózok társasjáték`
 ,`Dino Park társasjáték`
 ,`DINO PATH`
+,`Dino Tudáspróba – 1. osztály oktató társasjáték`
 ,`Dino Twist társasjáték`
 ,`Dinosaur Island - Rawr'N'Write társasjáték, angol nyelvű`
 ,`Dinosaur Tea Party társasjáték, angol nyelvű`
@@ -2677,8 +2681,10 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Everdell társasjáték Spirecrest kiegészítő, angol nyelvű`
 ,`Everdell társasjáték, angol nyelvű`
 ,`Everdell: A legkisebb erdőlakók társasjáték`
+,`Everdell: Dérvidék – önálló tablóépítős társasjáték a zord télben`
 ,`Everdell: Gyöngypatak kiegészítő`
 ,`Everdell: Ködrengeteg kiegészítő társasjáték`
+,`Everdell: Smaragdföld – társasjáték (önálló kaland az Everdell világában)`
 ,`Everdell: Virágfesztivál kiegészítő`
 ,`Everdell: Újliget kiegészítő`
 ,`Evil Genius: Deathray társasjáték, angol nyelvű`
@@ -3436,6 +3442,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Gördülő Birodalmak társasjáték`
 ,`H.I.D.E. Hidden Identity Dice Espionage társasjáték, angol nyelvű`
 ,`Ha/Ver társasjáték`
+,`Hab a tortán! társasjáték – tortadíszítő verseny rétegről rétegre`
 ,`Haba Karuba társasjáték`
 ,`Habitats társasjáték, angol nyelvű`
 ,`Hacker játszma társasjáték`
@@ -3766,6 +3773,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Háttérsztori - A jég fogságában társasjáték`
 ,`Házak, 500 db-os puzzle`
 ,`Hâpy Families multinyelvű társasjáték`
+,`HétköznaPista kvízjáték – az átlagos válaszok játéka`
 ,`Hímes Tojások társasjáték`
 ,`Hívatlan haverok társasjáték`
 ,`Hód banda kártyajáték`
@@ -3806,6 +3814,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Ierusalem: Anno Domini társasjáték, angol nyelvű`
 ,`Igaz vagy Hamis Extra Interaktív társasjáték`
 ,`Igaz vagy Hamis társasjáték`
+,`Igaz vagy Hamis? Junior társasjáték – gyerekeknek`
 ,`Igen? Nem? Egyik sem!`
 ,`Igen? társasjáték`
 ,`Igen? És... társasjáték`
@@ -3996,6 +4005,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Játszva megismerjük az évszakokat társasjáték`
 ,`Játszva megismerjük az órát társasjáték`
 ,`Játékok harca`
+,`Játékok harca: La Croisette – minikiegészítő (új terep az alapjátékhoz)`
 ,`Játékos írás társasjáték`
 ,`JÉG gyűjtői változat – társasjáték (2. kiadás) deluxe komponensekkel`
 ,`Jég résen! kártyajáték`
@@ -4866,6 +4876,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Mattel Scrabble Cseles társasjáték`
 ,`Mattel Scrabble Utazó társasjáték`
 ,`Mattel Tini nindzsa teknőcök Uno kártya`
+,`Mattel UNO adventi naptár – 24 napnyi UNO meglepetés`
 ,`Mattel Uno-kornis kártya`
 ,`Mattel Vakond hajsza - Kincskeresés`
 ,`Mattell UNO kártya társasjáték`
@@ -5622,6 +5633,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Palackposta - szóalkotó társasjáték`
 ,`Paladins Big Box`
 ,`PALADONE, HARRY POTTER WHO IS IT? társasjáték`
+,`Paletta társasjáték – festménygyűjtés és színkeverés`
 ,`Pancs Mancs társasjáték – fürdetős, vizes meglepetésjáték`
 ,`Panda Panda társasjáték`
 ,`Panda, 500 db-os puzzle`
@@ -5944,6 +5956,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piatnik Schnipp Schnapp társasjáték`
 ,`Piatnik Skat Economy kártya`
 ,`Piatnik Skylands társasjáték`
+,`Piatnik Smart10 társasjáték – pörgős kvízjáték utazáshoz is`
 ,`Piatnik Solo kártyajáték`
 ,`Piatnik Sortivity társasjáték`
 ,`Piatnik Speed Cups`
@@ -6140,6 +6153,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG 30th Anniversary ex fémdoboz – Greninja ex promó kártyával`
 ,`Pokémon TCG 30th Celebration 2-Pack Blister – Double Wide (Eevee promó + Pikachu érme)`
 ,`Pokémon TCG 30th Celebration Binder Collection – 9 zsebes gyűjtőmappa booster csomagokkal`
+,`Pokémon TCG 30th Celebration Booster Bundle – booster csomag válogatás`
 ,`Pokémon TCG 30th ex Box – Variant A (gyűjtői kártyás doboz)`
 ,`Pokémon TCG 30th ex Box – Variant B (kártyajáték gyűjtői doboz)`
 ,`Pokémon TCG 30th Poster Collection – poszter és promó kártyák + booster csomagok`
@@ -6149,6 +6163,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG Mega Evolution 01 - Mega Heroes Mini Tin`
 ,`Pokémon TCG Mega Evolution 01 - Mega Latias ex Box`
 ,`Pokémon TCG SV8.5 Prismatic Evolutions Elite Trainer Box – gyűjtő- és kezdő szett 9 boosterrel`
+,`Pokémon TCG: 30th Celebration Mini Tin – gyűjthető mini fémdoboz kártyákkal`
 ,`Pokémon TCG: 30th Elite Trainer Box – 30th Celebration bővítés`
 ,`Pokémon TCG: Advent Calendar 2025`
 ,`Pokémon TCG: Battle Academy 2024`
@@ -6572,6 +6587,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rival Kings társasjáték, multinyelvű`
 ,`Rivaldafény társasjáték`
 ,`Rivality társasjáték, angol nyelvű`
+,`River Rivals kártyajáték – halászhelyért vívott taktikai párharc`
 ,`River társasjáték, angol nyelvű`
 ,`Riverboat társasjáték, angol nyelvű`
 ,`Riverside társasjáték, angol nyelvű`
@@ -6866,6 +6882,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sirens társasjáték, angol nyelvű`
 ,`Sivatagi bújócska társasjáték`
 ,`Six Stix társasjáték, angol nyelvű`
+,`SIX-SEVEN kártyajáték – gyors és pörgős megfigyelős partijáték`
 ,`SixStix new form társasjáték, angol nyelvű`
 ,`Sixth társasjáték`
 ,`Sketch Off társasjáték`
@@ -6951,6 +6968,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Smart Games Vízivilág logikai játék`
 ,`Smart Games Állatrejtő kiegészítő logikai játék`
 ,`Smart Games Állatrejtő logikai játék`
+,`Smart10 Family – családi kvízjáték`
 ,`Smartphone Inc társasjáték Update 1.1 kiegészítő, angol nyelvű`
 ,`Smartphone Inc társasjáték, angol nyelvű`
 ,`Smartrix kártyajáték`
@@ -7197,6 +7215,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Super Stylist`
 ,`Super Wash társasjáték, multinyelvű`
 ,`Superclub társasjáték, angol nyelvű`
+,`Supersnails – Csigafutam társasjáték`
 ,`Sushi Draft társasjáték`
 ,`Sushi Go Party társasjáték`
 ,`Sushi Go társasjáték`
@@ -7829,6 +7848,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tower Stack társasjáték`
 ,`Town 66 társasjáték, angol nyelvű`
 ,`Town 77 társasjáték, angol nyelvű`
+,`Toxikus társak (Horrible Couple) kártyajáték – párkapcsolati fekete humor képregényekben`
 ,`Toy Options - Hot Dog Drop`
 ,`Toy Story 4 UNO kártyajáték`
 ,`TOY STORY MINI Fekete Péter és memória kártya`
@@ -7850,6 +7870,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Treachery in a Pocket társasjáték, angol nyelvű`
 ,`Treasure Island társasjáték, angol nyelvű`
 ,`Treasure Rush társasjáték`
+,`Trefl Boom Boom – Mancs Őrjárat gyorsasági kártyajáték`
 ,`Trepanation társasjáték, angol nyelvű`
 ,`Triangular domino - metal box`
 ,`Tribes társasjáték`
@@ -8086,12 +8107,14 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Uno kiegészítő kártyacsomag - Irányváltó csomag`
 ,`UNO kártyajáték 50 éves jubileumi kiadás`
 ,`Uno Lilo & Stich kártyajáték`
+,`UNO One Piece kártyajáték – anime tematikájú UNO pakli`
 ,`Uno Showdown - A nagy leszámolás társasjáték`
 ,`Uno Simpsons kártyajáték`
 ,`Uno Spider-Man kártyajáték`
 ,`Uno Spin társasjáték`
 ,`Uno Teams kártyajáték`
 ,`UNO Wednesday kártyajáték`
+,`UNO X-Men kártyajáték – Marvel tematikájú, pörgős partijáték`
 ,`Uno Zero kártyajáték`
 ,`Unrest társasjáték, angol nyelvű`
 ,`Unsolved Case Files 1: Harmony Ashcroft társasjáték`
@@ -8203,6 +8226,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Virágoskert társasjáték`
 ,`Virágvarázs társasjáték`
 ,`Virágvásár társasjáték`
+,`Virágzó tenger társasjáték – korallzátony-építős természetvédelmi kihívás`
 ,`Viticulture - Toszkána kiegészítő`
 ,`Viticulture - Világ Kooperatív kiegészítő`
 ,`Viticulture - Visit from Rhine Valley kiegészítő, angol nyelvű`
@@ -8334,6 +8358,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`WDYM, What Do You Meme GIF Edition`
 ,`WDYM, WHAT DO YOU MEME? A KEMÉNY MAGNAK társasjáték`
 ,`WDYM, WHAT DO YOU MEME? CSALÁDI KIADÁS társasjáték`
+,`WDYM: Első betű – utolsó betű társasjáték – pörgős magyar szójáték betűkerekekkel`
 ,`We Detectives társasjáték, angol`
 ,`We didn't playtest this at all társasjáték, angol nyelvű`
 ,`We Didn't Playtest This: Legacies kártyajáték, angol nyelvű`
@@ -8400,6 +8425,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Witchstone társasjáték, angol nyelvű`
 ,`Witchstone: Holdtölte kiegészítő`
 ,`Wizard kártya`
+,`Wizard kártyajáték – ütésvivős jóslós játék varázslatos témával`
 ,`Wombattle társasjáték`
 ,`WonderWord társasjáték, angol nyelvű`
 ,`Word Bits kártyajáték`
@@ -8422,6 +8448,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Wühlmäuse társasjáték`
 ,`X-Men: Mutant Insurrection társasjáték, angol nyelvű`
 ,`XCOM: The Boardgame angol nyelvű társasjáték`
+,`XOXO társasjáték – közös készletből épülő 3-as sor kirakó`
 ,`Yackety Smack társasjáték`
 ,`Yamatai társasjáték, angol nyelvű`
 ,`YAMS Deluxe kockajáték`
@@ -8431,6 +8458,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Yeti Snack! társasjáték – gyors ügyességi kihívás jégkockatálcával`
 ,`Yggdrasil Chronicles társasjáték, angol nyelvű`
 ,`Yinsh társasjáték`
+,`Ykon! rajzolós partijáték – sablonos rajzolás, gyors tippelés`
 ,`YO-SI-NO fejlesztő kártyajáték`
 ,`Yokai Sketch társasjáték, angol nyelvű`
 ,`Yokohama - magyar kaidás`
@@ -8473,6 +8501,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Zamatkockák társasjáték`
 ,`Zandri dust spray 400 ml`
 ,`Zangle kombinációs kártyajáték`
+,`Zanzoon Turbo Trivia interaktív kvízjáték – pörgős tudás- és reakciójáték`
 ,`Zavar az erdőben társasjáték`
 ,`Zen Garden társasjáték, angol nyelvű`
 ,`Zen Garden társasjáték, angol nyelvű - Stratégiai`
