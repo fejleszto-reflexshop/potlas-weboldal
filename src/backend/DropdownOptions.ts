@@ -203,6 +203,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A RémMesék titka társasjáték`
 ,`A rókák tudománya társasjáték`
 ,`A rózsa varázsa társasjáték`
+,`A sor társasjáték – becslős kártyajáték kooperatív és versengő móddal`
 ,`A suttogó rengeteg társasjáték`
 ,`A Szörnysziget királya társasjáték`
 ,`A sárkánybarlang rejtélye társasjáték`
@@ -2980,6 +2981,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Fournier No 2500, standard index 100% plasztik kártya`
 ,`Fournier No 2800, jumbo index 100% plasztik kártya`
 ,`Fournier WPT Gold edition kártya`
+,`Fourth Wing – A szárnyvezető felemelkedése társasjáték (Goliath)`
 ,`Fox in the Forest angol nyelvű társasjáték`
 ,`Foxy`
 ,`Foxy társasjáték`
@@ -3349,6 +3351,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Golden Horn kiegészítés`
 ,`Golden Horn társasjáték`
 ,`Golem társasjáték, angol nyelvű`
+,`Goliath Kukurikúúúúú – ügyességi és szerencsejáték lufis kakassal`
 ,`Gombfoci / Sectorball - Magyar társasjáték`
 ,`Gombra Fel! - Button Up! társasjáték`
 ,`Gondold ki! társasjáték`
@@ -3383,6 +3386,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Greedy Dragons társasjáték, angol`
 ,`Green`
 ,`Green`
+,`Greenwood társasjáték (magyar kiadás) – összetett stratégiai kaland 1–4 játékosnak`
 ,`GRETCHINZ angol nyelvű társasjáték`
 ,`Grey`
 ,`Grey`
@@ -4024,6 +4028,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Jógi Guru társasjáték`
 ,`Jógi társasjáték`
 ,`Jórvik társasjáték`
+,`K-Pop Demon Hunters Kamuradar partijáték – elektronikus igazságvizsgáló`
 ,`K2 Broad Peak, társasjáték, angol nyelvű`
 ,`K3 társasjáték, angol`
 ,`Ka-Blab! társasjáték`
@@ -5337,7 +5342,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Nagy Hal Kis Hal társasjáték`
 ,`Nagy nyomás alatt! társasjáték`
 ,`Nagyfeszültség társasjáték`
-,`Nagyi bugyiban társasjáték`
+,`Nagyi bugyiban társasjáték | vicces "Ki vagyok én?" partijáték szemüveggel, 2–6 főre`
+,`Nagyi titkos receptje társasjáték`
 ,`Nagymester bűvészkészlet (75 TRÜKK)`
 ,`Nagyméretű Tarock`
 ,`Nagyon T-Rex társasjáték`
@@ -5655,6 +5661,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pandemic: Rising Tide társasjáték, angol nyelvű`
 ,`Panic Lab logikai társasjáték`
 ,`Panic Mansion társasjáték`
+,`Panika társasjáték – pörgős kártyajáték mobilos applikációval`
 ,`Pantolino multinyelvű társasjáték`
 ,`Pantone The Game társasjáték, angol nyelvű`
 ,`Papageno kártyajáték`
@@ -6017,6 +6024,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pirate's Cove angol nyelvű társasjáték`
 ,`Pirates of Maracaibo társasjáték, angol nyelvű`
 ,`Piratoons társasjáték`
+,`Piros betű, sárga betű társasjáték – gyors szavas partijáték`
 ,`Piros történetek logisztori rejtvények`
 ,`Piszkos Fred 2. magyar kiadás`
 ,`Pitchstorm társasjáték, angol nyelvű`
@@ -8000,6 +8008,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Túra-pakli kártyajáték`
 ,`Tündérmese fogadó társasjáték`
 ,`Tündértánc társasjáték`
+,`Tőrbe ejtve taktikai kártyajáték – középkori udvari intrikák`
 ,`Ubongo társasjáték`
 ,`Uborkazamata minikiegészítők - Különleges vendég és Egy lángész portréja`
 ,`Uborkazamata társasjáték`
