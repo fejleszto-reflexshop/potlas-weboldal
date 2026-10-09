@@ -625,7 +625,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Badass Force VHS társasjáték, angol nyelvű`
 ,`Badland Wolves társasjáték, angol nyelvű`
 ,`Bagolytanoda társasjáték`
-,`Bajuszkirály társasjáték`
+,`Bajuszkirály kártyajáték | Ütésvivős játék, ahol a csapat és a szabály is folyton változik`
 ,`Bal jobb dilemma`
 ,`Balada társasjáték, multinyelvű`
 ,`Balance - fémdobozos`
@@ -2919,6 +2919,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Flex Puzzler MAX társasjáték`
 ,`Flex Puzzler XL társasjáték`
 ,`Flexi Cube`
+,`FlexIQ Strategeti stratégiai társasjáték | Kétszemélyes logikai párbaj, sakk-alternatíva`
 ,`Flip 7 kártyajáték`
 ,`Flip 7 Édes a bosszú kártyajáték`
 ,`Flip Circus társasjáték, angol nyelvű`
@@ -6381,7 +6382,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Qawale társasjáték`
 ,`QE társasjáték, angol nyelvű`
 ,`Qin társasjáték`
-,`Qork társasjáték`
+,`Qork dugóhúzós partijáték | Rántsd el a dugót, mielőtt lecsap a pohár!`
 ,`Quadropolis társasjáték`
 ,`Quadropolis társasjáték, angol nyelvű`
 ,`Quantik társasjáték`
@@ -7178,7 +7179,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Stranger Things Monopoly`
 ,`Stranger Things társasjáték (magyar kiadás)`
 ,`Stranger Things: Hellyel lefelé társasjáték`
-,`Strategeti társasjáték`
 ,`Stratego`
 ,`Stratego Kalózok társasjáték`
 ,`Stratego klasszikus társasjáték`
