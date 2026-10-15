@@ -1073,7 +1073,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Buzzed társasjáték`
 ,`Bye-Bye Black Sheep`
 ,`Byzanz kártyajáték, angol nyelvű`
-,`Bábel társasjáték`
+,`Bábel kooperatív kártyajáték | Építsétek fel együtt a tornyot a bábeli nyelvzavar közepette`
 ,`Bájos kis bestiák társasjáték`
 ,`Bájos árnyak társasjáték`
 ,`Bálnalovasok társasjáték`
@@ -2826,12 +2826,12 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Fekete Péter gyerekkártya - Lurkók`
 ,`Fekete Péter gyerekkártya - Nosztalgia`
 ,`Fekete Péter gyerekkártya - Állatok`
-,`Fekete történetek: Döglött akták logisztori rejtvények`
+,`Fekete történetek: Döglött akták kártyajáték | 50 megoldatlan, valódi bűnügy logikai rejtvényként`
 ,`Fekete történetek: Gyilkos spinék logisztori rejtvények`
 ,`Fekete történetek: Haláli halálok logisztori rejtvények`
 ,`Fekete történetek: Horror és rettegés logisztori rejtvények`
 ,`Fekete történetek: Orbitális bukták logisztori rejtvények`
-,`Fekete történetek: Szent sz@r! logisztori rejtvények`
+,`Fekete történetek: Szent sz@r! logikai rejtvényjáték | Csavaros, hátborzongató történetek nyomában`
 ,`Fekete történetek: Szex & vér logisztori rejtvények`
 ,`Fel ne ébreszd aput! társasjáték`
 ,`Felelsz vagy mersz? - Buliii! kártyajáték`
@@ -4121,6 +4121,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kedvenceink a lovak 4 az 1-ben kártya (Cartaco)`
 ,`Keekee társasjáték`
 ,`Keep Calm társasjáték, angol nyelvű`
+,`Keller&Mayer Gyógypuszi társasjáték – Brummbrumm Doktor rendelőjébe`
 ,`Keltis A kövek útja kártyajáték`
 ,`Keltis A kövek útja társasjáték`
 ,`Kem, Plastic Narrow - Paisley kártya`
@@ -5660,6 +5661,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pandemic: Legacy - 0. évad társasjáték`
 ,`Pandemic: Pengeélen kiegészítő`
 ,`Pandemic: Rising Tide társasjáték, angol nyelvű`
+,`Panic Lab (2. kiadás) – logikai családi társasjáték`
 ,`Panic Lab logikai társasjáték`
 ,`Panic Mansion társasjáték`
 ,`Panika társasjáték – pörgős kártyajáték mobilos applikációval`
@@ -6271,7 +6273,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Power Plants Deluxe Edition társasjáték, angol nyelvű`
 ,`PP  Word it Out! társasjáték`
 ,`PP Alice in Wonderland Alice's Party játékszőnyeg`
-,`PP Alice in Wonderland: Down the Rabbit Hole ügyességi játék`
 ,`PP Alice in Wonderland: Queen of Hearts Flamingo Croquet ügyességi játék`
 ,`PP Alice in Wonderland: The Queen's Guards óriás kártya`
 ,`PP Alice in Wonderland: The White Rabbit's Scavenger Hunt társasjáték`
