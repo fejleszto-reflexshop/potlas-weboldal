@@ -6369,6 +6369,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pyramid Arcade társasjáték, angol nyelvű`
 ,`Pyramido társasjáték, angol nyelvű`
 ,`PYRAMIDS társasjáték, angol nyelvű`
+,`Pálinka társasjáték – gyümölcsfeldolgozós stratégia pálinkafőző mestereknek`
 ,`Párizs - l’Étoile társasjáték kiegészítő`
 ,`Párizs 2021 társasjáték`
 ,`Párizs: A fények városa társasjáték`
