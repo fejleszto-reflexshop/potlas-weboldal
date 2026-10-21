@@ -145,7 +145,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A Kereskedők Völgye 2.: A mesterek legendája kártyajáték`
 ,`A Kereskedők Völgye: Legendás Mesterek Céhe társasjáték`
 ,`A Keresztapa - Corleone birodalma társasjáték`
-,`A kilenc élet tornya társasjáték`
+,`A kilenc élet tornya társasjáték – kooperatív toronyépítő családi játék, 1–5 fő, 8 éves kortól`
 ,`A király dilemmája társasjáték`
 ,`A kis borz meséje társasjáték`
 ,`A Kisvakond kertje társasjáték`
@@ -156,18 +156,19 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`A Mars - Idegen invázió társasjáték kiegészítő`
 ,`A Mars Terraformálása társasjáték`
 ,`A Mars terraformálása vászontáska`
+,`A Mars Terraformálása – promókártya csomag 2025 (Seasonal Promo Pack)`
 ,`A Mars terraformálása: A kezdetek 2 promócsomag`
 ,`A Mars terraformálása: A kezdetek 2. kiegészítő`
 ,`A Mars Terraformálása: A kezdetek kiegészítő`
-,`A Mars terraformálása: Amazonis & Vastitas kiegészítő`
+,`A Mars terraformálása: Amazonis & Vastitas – Magasba nyúló hegyek és tágas síkságok térképkiegészítő`
 ,`A Mars terraformálása: Automa kiegészítő`
 ,`A Mars terraformálása: Hatalmi játszma kiegészítő`
 ,`A Mars terraformálása: Hellas & Elysium kiegészítő`
 ,`A Mars terraformálása: Kockajáték társasjáték`
 ,`A Mars Terraformálása: Következő állomás: Vénusz kiegészítő`
-,`A Mars terraformálása: Mérföldkövek és díjak kiegészítő`
+,`A Mars terraformálása: Mérföldkövek és díjak kiegészítő – 70 mérföldkő- és díjlapka`
 ,`A Mars Terraformálása: Távoli gyarmatok kiegészítő`
-,`A Mars terraformálása: Utopia & Cimmeria kiegészítő`
+,`A Mars terraformálása: Utopia & Cimmeria – Alföldek és felföldek térképkiegészítő, 2 új pálya`
 ,`A Mars terraformálása: Árész-expedíció társasjáték`
 ,`A Mars társasjáték`
 ,`A mesék titka társasjáték`
@@ -681,6 +682,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Battle Sheep társasjáték`
 ,`Battlelore 2nd edition angol nyelvű társasjáték`
 ,`Battleship classic társasjáték`
+,`Battleship torpedó társasjáték – kétszemélyes tengeri csata hordozható csatatokokkal`
 ,`BBS: Sherlock Holmes árnyékában társasjáték`
 ,`Beacon Patrol társasjáték, angol nyelvű`
 ,`Bear Raid társasjáték, angol nyelvű`
@@ -2448,7 +2450,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dugókutya kártyajáték – Kiegészítő gyűjtemény (3 modul)`
 ,`Dugókutya zsebkártyajáték – Alapjáték`
 ,`Dumb Questions To Ask Your friends társasjáték, angol nyelvű`
-,`Dumb Ways to Die: A játék társasjáték`
+,`Dumb Ways to Die – A játék, humoros kártyajáték társaságnak, 2–5 fő, 12 éves kortól`
 ,`Dune (2019) társasjáték Ixians & Tleilaxu House kiegészítő, angol nyelvű`
 ,`Dune (2019) társasjáték, angol nyelvű`
 ,`Dune: Betrayal társasjáték, angol nyelvű`
@@ -3231,7 +3233,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Ganz Schön Clever társasjáték`
 ,`Garden Lake társasjáték, idegen nyelvu`
 ,`Garden Rush társasjáték`
-,`Gaudi társasjáték`
+,`Gaudí társasjáték – stratégiai mozaik- és mintázatépítő játék Antoni Gaudí építészetéről`
 ,`Gauner raus! kártyajáték`
 ,`Gazdálkodj okosan társasjáték - Régi játék új pénzekkel`
 ,`Gazdálkodj okosan! (eurós változat) társasjáték`
@@ -6168,13 +6170,22 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG 30th ex Box – Variant A (gyűjtői kártyás doboz)`
 ,`Pokémon TCG 30th ex Box – Variant B (kártyajáték gyűjtői doboz)`
 ,`Pokémon TCG 30th Poster Collection – poszter és promó kártyák + booster csomagok`
+,`Pokémon TCG Deck Crafter’s Collection – pakliépítő kártyacsomag Meowth ex fóliakártyával`
 ,`Pokémon TCG First Partners Illustration Collection – Series 3 gyűjtői csomag`
+,`Pokémon TCG League Battle Deck – Mega Greninja ex (26Q4)`
 ,`Pokémon TCG Mega Evolution 01 - Booster`
 ,`Pokémon TCG Mega Evolution 01 - Enhanced Booster Display`
 ,`Pokémon TCG Mega Evolution 01 - Mega Heroes Mini Tin`
 ,`Pokémon TCG Mega Evolution 01 - Mega Latias ex Box`
+,`Pokémon TCG Mega Evolution: Delta Reign (ME06) booster csomag`
 ,`Pokémon TCG SV8.5 Prismatic Evolutions Elite Trainer Box – gyűjtő- és kezdő szett 9 boosterrel`
+,`Pokémon TCG: 30th Celebration Battle Deck – Espeon ex / Umbreon ex (60 fóliás lap)`
+,`Pokémon TCG: 30th Celebration Ditto Premium Collection – akril display + 8 booster`
+,`Pokémon TCG: 30th Celebration Figure Collection – Mew gyűjtemény`
+,`Pokémon TCG: 30th Celebration Figure Collection – Mewtwo`
 ,`Pokémon TCG: 30th Celebration Mini Tin – gyűjthető mini fémdoboz kártyákkal`
+,`Pokémon TCG: 30th Celebration Ultra Premium Collection – Night gyűjtői doboz`
+,`Pokémon TCG: 30th Celebration Ultra-Premium Collection – Day gyűjtői doboz`
 ,`Pokémon TCG: 30th Elite Trainer Box – 30th Celebration bővítés`
 ,`Pokémon TCG: Advent Calendar 2025`
 ,`Pokémon TCG: Battle Academy 2024`
@@ -6209,6 +6220,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG: Mega Charizard Tin`
 ,`Pokémon TCG: Mega Charizard X ex Ultra Premium Collection`
 ,`Pokémon TCG: Mega Evolution 01 - 3 Blister Gyűjtői kártya`
+,`Pokémon TCG: Mega Evolution – Delta Reign (ME06) 3 db blister booster`
 ,`Pokémon TCG: Mega Kangaskhan ex Box`
 ,`Pokémon TCG: Mega Lucario ex Figure Collection`
 ,`Pokémon TCG: Mega Lucario ex League Battle Deck`
@@ -7073,6 +7085,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Sprint társasjáték`
 ,`Spuri! társasjáték`
 ,`Squadro társasjáték`
+,`Squaroes Squaroe Teenage Mutant Ninja Turtles – Raphael gyűjtői deck box (100 dupla tokos kártyáig)`
 ,`Squawk társasjáték`
 ,`Staka társasjáték, angol nyelvű`
 ,`Standard Index Fan kártya`
@@ -7841,7 +7854,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Torpedo társasjáték`
 ,`Torpedó - A klasszikus stratégiai társasjáték`
 ,`Torpedó mágneses társasjáték`
-,`Torpedó társasjáték`
 ,`Torres (2017-es kiadás)`
 ,`Torres Family társasjáték, angol nyelvű`
 ,`Torres társasjáték, angol nyelvű`
