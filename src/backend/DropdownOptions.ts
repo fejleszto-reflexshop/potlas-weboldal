@@ -1019,6 +1019,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Brawling Barons társasjáték, angol nyelvű`
 ,`Brazil birodalom társasjáték`
 ,`Break the Cube társasjáték, angol nyelvű`
+,`Break the Word társasjáték (angol nyelvű) – szókitalálós logikai kihívás`
 ,`Breaking Bad`
 ,`Breaking Bad társasjáték, angol nyelvű`
 ,`Breki Kvak társasjáték`
@@ -1228,7 +1229,6 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Catan - Explorers and Pirates, 5-6 fős kiegészítő társasjáték, angol nyelvű`
 ,`Catan - Lovagok és Városok kiegészítő`
 ,`Catan - Lovagok és Városok társasjáték kieg. 5-6 főre`
-,`Catan Card Game kártyajáték – erőforrásgyűjtés és településépítés`
 ,`Catan Csillaghajós társasjáték – űrbéli felfedezés és kereskedelem`
 ,`Catan Csillaghajósok társasjáték`
 ,`Catan Dice Game kockajáték – településépítés pontlapra`
@@ -1248,6 +1248,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Catan Trónok harca Brotherhood of the Watch társasjáték, angol nyelvű`
 ,`Catan társasjáték kiegészítő 5-6 főre`
 ,`Catan: A hódítók legendája társasjáték`
+,`Catan: A kártyajáték – erőforrásgyűjtés és településépítés`
 ,`Catan: Cities &Knights Game Expansion angol nyelvű`
 ,`Catan: Explorers & Pirates 5-6, angol nyelv`
 ,`Catan: Explorers & Pirates, angol nyelv`
@@ -1334,6 +1335,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Chessex 16 mm-es dobókocka - Piros/Fekete`
 ,`Chessex 6 db-os dobókocka szett (16mm)`
 ,`Chessex Adventi kockakalendárium 2025`
+,`Chessex Adventi kockakalendárium 2026 – dobókocka válogatás ajándékdobozban`
 ,`Chessex d20 kocka, nagy méretű, foltos, fire`
 ,`Chessex d20 kocka, nagy méretű, foltos, lotus`
 ,`Chessex d20 kocka, nagy méretű, foltos, strawberry`
@@ -1824,6 +1826,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Copag 310 Stripper bűvész kártya`
 ,`Copag 310 Svengali bűvész kártya`
 ,`Copag Calavera bűvész kártya`
+,`Copag Elite PKJ pókerkártya – fekete hátlap, nagy index, 100% plasztik`
+,`Copag Elite PKJ pókerkártya – kék hátlap, 100% plasztik, nagy index (2 sarok)`
+,`Copag Elite PKJ pókerkártya – piros hátlap, nagy index, 100% plasztik`
 ,`Copag Neo Candy Maze bűvész kártya`
 ,`Copag Neo Connect bűvész kártya`
 ,`Copag Neo Tune In bűvész kártya`
@@ -1890,6 +1895,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Csak egy (társasjáték)`
 ,`Csalafinta bandita kártyajáték`
 ,`Családban marad - beszélgetést kezdeményező kártyajáték`
+,`Családi Vibe kártyajáték – pozitív kérdések és kihívások családoknak`
 ,`Csaló molyok társasjáték`
 ,`Csapasd a ritmust kártyajáték`
 ,`Csapatépítő kártyajáték`
@@ -2131,6 +2137,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Dig Your Way Out: Dig in kiegészítő, angol nyelvű`
 ,`Digit kártyajáték`
 ,`Digit társasjáték`
+,`Digitális Pilóta kooperatív családi kártyajáték – egészséges digitális szokások`
 ,`Dilimonádé társasjáték`
 ,`Ding! társasjáték`
 ,`DING! társasjáték, angol nyelvű`
@@ -2440,6 +2447,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Duelosaur Island társasjáték, angol nyelvű`
 ,`Dugókutya kártyajáték – Kiegészítő gyűjtemény (3 modul)`
 ,`Dugókutya zsebkártyajáték – Alapjáték`
+,`Dugókutya – 2. kiegészítő (3 modul: Szívtipró, Karantén, Dugóelixír)`
+,`Dugókutya – 3. kiegészítő (3 modul)`
 ,`Dumb Questions To Ask Your friends társasjáték, angol nyelvű`
 ,`Dumb Ways to Die – A játék, humoros kártyajáték társaságnak, 2–5 fő, 12 éves kortól`
 ,`Dune (2019) társasjáték Ixians & Tleilaxu House kiegészítő, angol nyelvű`
@@ -2972,6 +2981,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Foxy`
 ,`Foxy társasjáték`
 ,`Foztogatók kártyajáték`
+,`Fragments: Solara – angol nyelvű narratív társasjáték, kirakós mechanikával`
+,`Frakk és a macskák társasjáték – minitörténetes logikai kihívás`
 ,`Framework - Egy keret a világ! társasjáték`
 ,`Francis Drake társasjáték, angol nyelvű`
 ,`Freak Shop társasjáték, angol nyelvű`
@@ -3700,6 +3711,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`House of the Dragon: Dark Dealings`
 ,`Hova bújtál, Boribon? társasjáték`
 ,`Hová bújtál, katica? társasjáték`
+,`How I Met Your Series társasjáték – sorozatrajongóknak`
 ,`How Smart are you? társasjáték`
 ,`Huch&Friends A kis sárkánylovag társasjáték`
 ,`Huch&Friends Animalogic`
@@ -4026,6 +4038,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Kakukk kártyajáték`
 ,`Kakuzu társasjáték`
 ,`Kalandok földje társasjáték`
+,`Kalandok kapuja kártyajáték – kreatív problémamegoldó kalandok gyerekeknek`
 ,`KalandoZOO - Marci az állatkertben társasjáték`
 ,`Kalandtúra társasjáték`
 ,`Kalmár társasjáték`
@@ -4156,6 +4169,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Ki20tuk! társasjáték`
 ,`kib@szodt dilemma társasjáték`
 ,`Kick-Ass társasjáték, angol nyelvű`
+,`Kids Vibe kreatív gondolkodásfejlesztő kártyajáték – 200 kérdés és feladat gyerekeknek`
 ,`Kiegészítő szerencsekártya csomag Az Ezüst - tó kincse társasjátékhoz`
 ,`Kifürkészhetetlen társasjáték`
 ,`Kill Kim - A rezsimcsökkentés társasjáték`
@@ -4178,6 +4192,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`King of Tokyo - Godzilla társasjáték angol nyelvu`
 ,`King of Tokyo - Monster Box társasjáték, angol nyelvű`
 ,`King of Tokyo : Duel - Baby gigazaur promo monster társasjáték angol nyelvu`
+,`King of Tokyo Duel: Tokyo Bay angol nyelvű önálló társasjáték`
 ,`King of Tokyo Halloween kiegészítő, angol nyelvű`
 ,`King of Tokyo Monster pack: Luchador angol nyelvű társasjáték`
 ,`King of Tokyo Power up! angol nyelvű kiegészítő`
@@ -4513,6 +4528,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Longhorn - Marhatolvajok társasjáték`
 ,`Looney Tunes - Bolondos dallamok MINI Fekete Péter és memória kártya`
 ,`Looot társasjáték`
+,`LOOP angol nyelvű társasjáték – pörgős kártyadobálós párbaj`
 ,`Loopin' Louie társasjáték`
 ,`Loopin' Louie társasjáték`
 ,`Lord of the Rings LCG társasjáték, angol nyelvű`
@@ -4540,6 +4556,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Louis Royo Malefic Tarot kártya`
 ,`Lovak, 500 db-os puzzle`
 ,`Love the 90's Trivia angol nyelvű kvízjáték`
+,`Love Vibe párkapcsolatépítő kártyajáték – 200 pozitív kérdés pároknak`
 ,`Lovecraft Letter társasjáték, angol nyelvű`
 ,`Lucidity Six-sided Nightmares társasjáték, angol nyelvű`
 ,`Lucky Egg - Get Wet (Vicces Spriccek)`
@@ -5666,6 +5683,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Party &Co. Shock You társasjáték`
 ,`Party Alias társasjáték`
 ,`Party Bugs társasjáték`
+,`Party Vibe kártyajáték – bulikhoz és társasági estékhez`
 ,`Party&Co családi társasjáték`
 ,`Party&Co Junior társasjáték`
 ,`Party&Co társasjáték`
@@ -5978,6 +5996,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Piggy Pearls társasjáték`
 ,`Pilgrims: Vándorok társasjáték – kalandos útkeresés mesebeli tájakon`
 ,`Pili Pili társasjáték`
+,`Pillanatkapitány küldetése társasjáték – mindfulness-alapú készségfejlesztés`
 ,`Pillangók / Butterflies logikai játék`
 ,`Pillars of the Earth Basic Game társasjáték, angol nyelv`
 ,`Pillepopók társasjáték`
@@ -6145,12 +6164,16 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pokémon TCG Mega Evolution 01 - Mega Heroes Mini Tin`
 ,`Pokémon TCG Mega Evolution 01 - Mega Latias ex Box`
 ,`Pokémon TCG Mega Evolution: Delta Reign (ME06) booster csomag`
+,`Pokémon TCG Mega Evolution: Delta Reign (ME06) Elite Trainer Box`
+,`Pokémon TCG Mega Evolution: Delta Reign (ME06) – Booster Bundle`
+,`Pokémon TCG Mega Forces Tin – gyűjtői fémdoboz 4 booster csomaggal`
 ,`Pokémon TCG SV8.5 Prismatic Evolutions Elite Trainer Box – gyűjtő- és kezdő szett 9 boosterrel`
 ,`Pokémon TCG: 30th Celebration Battle Deck – Espeon ex / Umbreon ex (60 fóliás lap)`
 ,`Pokémon TCG: 30th Celebration Ditto Premium Collection – akril display + 8 booster`
 ,`Pokémon TCG: 30th Celebration Figure Collection – Mew gyűjtemény`
 ,`Pokémon TCG: 30th Celebration Figure Collection – Mewtwo`
 ,`Pokémon TCG: 30th Celebration Mini Tin – gyűjthető mini fémdoboz kártyákkal`
+,`Pokémon TCG: 30th Celebration Tech Sticker Collection – promó kártya + matrica + 3 booster`
 ,`Pokémon TCG: 30th Celebration Ultra Premium Collection – Night gyűjtői doboz`
 ,`Pokémon TCG: 30th Celebration Ultra-Premium Collection – Day gyűjtői doboz`
 ,`Pokémon TCG: 30th Elite Trainer Box – 30th Celebration bővítés`
@@ -6250,6 +6273,8 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Pow társasjáték`
 ,`Power Grid India/Australia, társasjáték, kiegészítő, angol nyelvű`
 ,`Power Plants Deluxe Edition társasjáték, angol nyelvű`
+,`Pozitivity Family társasjáték – családi önbizalom- és kapcsolaterősítő játék`
+,`POZITIVITY társasjáték – pozitív gondolkodást fejlesztő családi játék`
 ,`PP  Word it Out! társasjáték`
 ,`PP Alice in Wonderland Alice's Party játékszőnyeg`
 ,`PP Alice in Wonderland: Queen of Hearts Flamingo Croquet ügyességi játék`
@@ -6444,6 +6469,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rakéták és üstökösök`
 ,`Rallyman GT társasjáték`
 ,`Randi Este - beszélgetős kártyajáték`
+,`Randi Vibe ismerkedős kártyajáték – beszélgetésindító kérdések és feladatok randira`
 ,`Randiguru társasjáték`
 ,`Rapa Nui társasjáték, angol nyelvű`
 ,`Raptor társasjáték, angol nyelvű`
@@ -6522,6 +6548,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Reflexshop X Vates exkluzív vászontáska – Társasjáték`
 ,`Reflexx társasjáték - Kártyajátékok`
 ,`Regatta Logikai társasjáték`
+,`Regicide angol nyelvű kooperatív kártyajáték`
 ,`Regine társasjáték, angol nyelvű`
 ,`Regisztrációs díj`
 ,`Rejtély a babaházban társasjáték`
@@ -6577,6 +6604,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Rivaldafény társasjáték`
 ,`Rivality társasjáték, angol nyelvű`
 ,`River Rivals kártyajáték – halászhelyért vívott taktikai párharc`
+,`River társasjáték (angol nyelvű) – folyami felfedező verseny`
 ,`River társasjáték, angol nyelvű`
 ,`Riverboat társasjáték, angol nyelvű`
 ,`Riverside társasjáték, angol nyelvű`
@@ -7321,6 +7349,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Színtahal társasjáték`
 ,`Színvilág társasjáték`
 ,`Színérzék társasjáték`
+,`Szívmanó és a szeretetnyelvek kártyajáték – érzelmi kommunikáció fejlesztéséhez`
 ,`Szó Csata társasjáték`
 ,`Szócsapdák társasjáték`
 ,`Szócsengő társasjáték – 5 másodperces szópárbaj betűkkel`
@@ -7337,6 +7366,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Szörnymóka társasjáték`
 ,`Szörnyszekrény`
 ,`Szörnyszekrény társasjáték`
+,`Szülinapi Vibe születésnapi kártyajáték – beszélgetésindító és bulijáték`
 ,`Sárkány Palota társasjáték`
 ,`Sárkány palota társasjáték 2022.`
 ,`Sárkánykeltető`
@@ -7761,6 +7791,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Tiny Towns társasjáték Villagers kiegészítő, angol nyelvű`
 ,`Tiny towns társasjáték, angol nyelvű`
 ,`TipOver társasjáték`
+,`Tipsy labirintus társasjáték – billenthető fa ügyességi játék 2 főre`
 ,`Titan Race angol nyelvű társasjáték`
 ,`Titkok temploma / Temple Trap logikai játék`
 ,`Titkos katicák memóriajáték`
@@ -8044,7 +8075,9 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Unmatched: A felkelő nap társasjáték`
 ,`Unmatched: A szabadság földje társasjáték`
 ,`Unmatched: Brains and Brawn társasjáték, angol nyelvű`
+,`Unmatched: Bruce Lee vs. Muhammad Ali társasjáték (angol nyelvű)`
 ,`Unmatched: For King and Country társasjáték, angol nyelvű`
+,`Unmatched: Hellboy társasjáték-kiegészítő – 4 Hellboy karakter és 2 új pálya`
 ,`Unmatched: Houdini vs. a dzsinn társasjáték`
 ,`Unmatched: Jurassic Park – Dr. Sattler vs. T. Rex társasjáték, angol nyelvű`
 ,`Unmatched: Jurassic Park – InGen vs. Raptors társasjáték, angol nyelvű`
@@ -8057,6 +8090,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Unmatched: Marvel – Redemption Row társasjáték, angol nyelvű`
 ,`Unmatched: Piroska vs. Beowulf társasjáték`
 ,`Unmatched: Robin Hood vs. Bigfoot társasjáték`
+,`Unmatched: Stars and Stripes angol nyelvű társasjáték`
 ,`Unmatched: Teen Spirit társasjáték, angol nyelvű`
 ,`Unmatched: The Witcher - A birodalmak bukása társasjáték`
 ,`Unmatched: The Witcher - Acél és ezüst társasjáték`
@@ -8584,6 +8618,7 @@ export const dropdownOptions: string[] = [`"Digital" Glowing dobókocka készlet
 ,`Óriás sztorikocka cselekvésekkel`
 ,`Óriás Sztorikocka kalandokkal társasjáték`
 ,`Óvodás vagyok! készségfejlesztő társasjáték`
+,`Önismereti Vibe önismereti kártyajáték – 200 kérdés tartalmas beszélgetésekhez`
 ,`Összeadás oktató memória kártya`
 ,`Újrajátszott Trianon`
 ,`Üdvözlet a mélyben társasjáték`
